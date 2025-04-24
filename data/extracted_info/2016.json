@@ -1,0 +1,822 @@
+[
+  {
+    "id": "http://arxiv.org/abs/1612.04580v1",
+    "title": "Socioeconomic correlations and stratification in social-communication networks",
+    "year": 2016,
+    "authors": [
+      "Yannick Leo",
+      "Eric Fleury",
+      "J. Ignacio Alvarez-Hamelin",
+      "Carlos Sarraute",
+      "Márton Karsai"
+    ],
+    "categories": [
+      "cs.SI",
+      "physics.soc-ph"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper analyzes socioeconomic disparities, social stratification, and mobility patterns using large-scale data, directly addressing economic and class inequalities.",
+      "inequality_type": [
+        "wealth",
+        "socioeconomic",
+        "class"
+      ],
+      "other_detail": "Focuses on economic status and social stratification",
+      "affected_populations": [
+        "urban residents",
+        "wealthy",
+        "poor"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analysis of large-scale mobile and financial data",
+      "geographic_focus": [
+        "Latin America"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1611.07509v1",
+    "title": "A causal framework for discovering and removing direct and indirect discrimination",
+    "year": 2016,
+    "authors": [
+      "Lu Zhang",
+      "Yongkai Wu",
+      "Xintao Wu"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses discrimination detection and removal, related to social groups.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic"
+      ],
+      "other_detail": "Focuses on fairness in predictive models",
+      "affected_populations": [
+        "social groups",
+        "discriminated individuals"
+      ],
+      "methodology": [
+        "Causal Analysis",
+        "Algorithm Development",
+        "Data Analysis"
+      ],
+      "methodology_detail": "Uses causal networks for discrimination detection and removal",
+      "geographic_focus": null,
+      "ai_relationship": "AI as solution",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1611.07438v1",
+    "title": "Achieving non-discrimination in data release",
+    "year": 2016,
+    "authors": [
+      "Lu Zhang",
+      "Yongkai Wu",
+      "Xintao Wu"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on discrimination discovery and removal related to protected attributes like gender, addressing social bias and fairness issues.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focuses on discrimination in data release processes",
+      "affected_populations": [
+        "women",
+        "discriminated groups"
+      ],
+      "methodology": [
+        "Graphical Analysis",
+        "Algorithm Development",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Uses causal graphs and algorithms for discrimination removal",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1611.06459v2",
+    "title": "Gendered Conversation in a Social Game-Streaming Platform",
+    "year": 2016,
+    "authors": [
+      "Supun Nakandala",
+      "Giovanni Luca Ciampaglia",
+      "Norman Makoto Su",
+      "Yong-Yeol Ahn"
+    ],
+    "categories": [
+      "cs.SI",
+      "cs.CL",
+      "cs.CY"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender disparities and objectification in online social gaming, highlighting persistent gender inequality. It analyzes how gender influences conversation and social interactions, indicating social bias and inequality issues.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "None",
+      "affected_populations": [
+        "female streamers",
+        "male streamers",
+        "viewers"
+      ],
+      "methodology": [
+        "Natural Language Processing",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Text analysis and prediction models",
+      "geographic_focus": null,
+      "ai_relationship": "Measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1611.07824v1",
+    "title": "SimAthens: A spatial microsimulation approach to the estimation and analysis of small-area income distributions and poverty rates in Athens, Greece",
+    "year": 2016,
+    "authors": [
+      "Anastasia Panori",
+      "Dimitris Ballas",
+      "Yannis Psycharis"
+    ],
+    "categories": [
+      "cs.MA",
+      "62P25"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper analyzes income inequalities and poverty at small-area levels in Athens, Greece, during an economic crisis, focusing on socioeconomic disparities.",
+      "inequality_type": [
+        "income",
+        "socioeconomic",
+        "geographic"
+      ],
+      "other_detail": "Focus on regional income and poverty disparities",
+      "affected_populations": [
+        "low-income residents",
+        "urban poor"
+      ],
+      "methodology": [
+        "Spatial Microsimulation",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Uses IPF algorithm with census and EU-SILC data",
+      "geographic_focus": [
+        "Athens, Greece"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.08984v1",
+    "title": "Quantitative Evaluation of Gender Bias in Astronomical Publications from Citation Counts",
+    "year": 2016,
+    "authors": [
+      "Neven Caplar",
+      "Sandro Tacchella",
+      "Simon Birrer"
+    ],
+    "categories": [
+      "astro-ph.IM",
+      "cs.DL",
+      "physics.soc-ph"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender bias in citation counts and authorship, addressing gender inequality in academia.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focus on gender bias in scientific publishing",
+      "affected_populations": [
+        "female authors",
+        "male authors"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Machine Learning"
+      ],
+      "methodology_detail": "Controls for paper properties using random forest",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.08559v1",
+    "title": "Measuring Fairness in Ranked Outputs",
+    "year": 2016,
+    "authors": [
+      "Ke Yang",
+      "Julia Stoyanovich"
+    ],
+    "categories": [
+      "cs.DB"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses fairness in rankings, focusing on discrimination against protected groups, which relates to social inequalities such as race, gender, and other demographics.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "educational",
+        "social"
+      ],
+      "other_detail": "Focuses on fairness in algorithmic rankings",
+      "affected_populations": [
+        "protected groups",
+        "disadvantaged individuals"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Dataset Creation",
+        "Experiment"
+      ],
+      "methodology_detail": "Controls unfairness levels in datasets and evaluates measures",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.08452v2",
+    "title": "Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment",
+    "year": 2016,
+    "authors": [
+      "Muhammad Bilal Zafar",
+      "Isabel Valera",
+      "Manuel Gomez Rodriguez",
+      "Krishna P. Gummadi"
+    ],
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses fairness in AI decision-making, focusing on misclassification disparities across social groups, which relates to social discrimination and inequality.",
+      "inequality_type": [
+        "gender",
+        "social bias"
+      ],
+      "other_detail": "Focus on fairness beyond traditional treatment and impact measures",
+      "affected_populations": [
+        "women",
+        "social groups"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Quantitative Analysis",
+        "Experiment"
+      ],
+      "methodology_detail": "Incorporates fairness constraints into classifiers",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.08077v1",
+    "title": "A statistical framework for fair predictive algorithms",
+    "year": 2016,
+    "authors": [
+      "Kristian Lum",
+      "James Johndrow"
+    ],
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses racial disparities in predictive algorithms used in criminal justice, aiming to reduce racial bias and disparities, which are forms of social inequality.",
+      "inequality_type": [
+        "racial",
+        "social"
+      ],
+      "other_detail": "Focuses on racial disparities in criminal justice predictions",
+      "affected_populations": [
+        "racial minorities"
+      ],
+      "methodology": [
+        "Statistical Analysis",
+        "Algorithm Auditing"
+      ],
+      "methodology_detail": "Removing protected variables to reduce bias",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.07524v1",
+    "title": "Fair prediction with disparate impact: A study of bias in recidivism prediction instruments",
+    "year": 2016,
+    "authors": [
+      "Alexandra Chouldechova"
+    ],
+    "categories": [
+      "stat.AP",
+      "cs.CY",
+      "stat.ML"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines bias and fairness in recidivism prediction, which relates to racial and social disparities in criminal justice outcomes.",
+      "inequality_type": [
+        "racial",
+        "social",
+        "discrimination"
+      ],
+      "other_detail": "Bias in criminal risk assessment tools",
+      "affected_populations": [
+        "racial minorities",
+        "criminal defendants"
+      ],
+      "methodology": [
+        "Statistical Analysis",
+        "Algorithm Auditing"
+      ],
+      "methodology_detail": "Analyzes fairness criteria and impact disparities",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.05937v1",
+    "title": "Gender differences in scientific collaborations: Women are more egalitarian than men",
+    "year": 2016,
+    "authors": [
+      "Eduardo B. Araujo",
+      "Nuno A. M. Araujo",
+      "Andre A. Moreira",
+      "Hans J. Herrmann",
+      "J. S. Andrade Jr"
+    ],
+    "categories": [
+      "cs.DL"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender differences in scientific collaboration, highlighting gender-based disparities and egalitarian behaviors, directly addressing gender inequality in academia.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "None",
+      "affected_populations": [
+        "women scientists",
+        "men scientists"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analysis of collaboration patterns in large dataset",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1610.02413v1",
+    "title": "Equality of Opportunity in Supervised Learning",
+    "year": 2016,
+    "authors": [
+      "Moritz Hardt",
+      "Eric Price",
+      "Nathan Srebro"
+    ],
+    "categories": [
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses discrimination and bias in supervised learning, focusing on fairness across protected groups, which relates directly to social inequality issues.",
+      "inequality_type": [
+        "racial",
+        "socioeconomic",
+        "educational"
+      ],
+      "other_detail": "Focuses on fairness and discrimination in AI systems",
+      "affected_populations": [
+        "disadvantaged groups"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Statistical Analysis",
+        "Case Study"
+      ],
+      "methodology_detail": "Adjusts predictors to remove bias based on joint statistics",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1608.03735v2",
+    "title": "Causal Inference for Social Discrimination Reasoning",
+    "year": 2016,
+    "authors": [
+      "Bilal Qureshi",
+      "Faisal Kamiran",
+      "Asim Karim",
+      "Salvatore Ruggieri",
+      "Dino Pedreschi"
+    ],
+    "categories": [
+      "cs.CY",
+      "stat.AP"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on detecting discriminatory bias in decision making, which relates to social discrimination and inequality issues such as race, gender, and group fairness.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "social"
+      ],
+      "other_detail": "Focuses on discrimination detection in AI systems",
+      "affected_populations": [
+        "minority groups",
+        "disadvantaged groups"
+      ],
+      "methodology": [
+        "Statistical Analysis",
+        "Machine Learning"
+      ],
+      "methodology_detail": "Uses propensity score analysis and regression trees",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1607.06520v1",
+    "title": "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings",
+    "year": 2016,
+    "authors": [
+      "Tolga Bolukbasi",
+      "Kai-Wei Chang",
+      "James Zou",
+      "Venkatesh Saligrama",
+      "Adam Kalai"
+    ],
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses gender stereotypes and biases in language models, which relate to social gender inequality and discrimination.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focuses on gender bias in AI representations",
+      "affected_populations": [
+        "women",
+        "gender minorities"
+      ],
+      "methodology": [
+        "Natural Language Processing",
+        "Algorithm Auditing",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Bias measurement and debiasing algorithms",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1607.03895v1",
+    "title": "Tie-breaker: Using language models to quantify gender bias in sports journalism",
+    "year": 2016,
+    "authors": [
+      "Liye Fu",
+      "Cristian Danescu-Niculescu-Mizil",
+      "Lillian Lee"
+    ],
+    "categories": [
+      "cs.CL",
+      "physics.soc-ph"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender bias in sports journalism, addressing gender inequality and social bias in media.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focus on gender bias in sports journalism",
+      "affected_populations": [
+        "female athletes",
+        "male athletes"
+      ],
+      "methodology": [
+        "Natural Language Processing",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analyzes question differences using language models",
+      "geographic_focus": null,
+      "ai_relationship": "Measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1606.09082v1",
+    "title": "Formation of homophily in academic performance: students prefer to change their friends rather than performance",
+    "year": 2016,
+    "authors": [
+      "Ivan Smirnov",
+      "Stefan Thurner"
+    ],
+    "categories": [
+      "physics.soc-ph",
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The study examines social segregation, inequality, and social mobility related to academic performance, which are key aspects of social inequality.",
+      "inequality_type": [
+        "educational",
+        "socioeconomic"
+      ],
+      "other_detail": "Focuses on academic achievement and social network dynamics",
+      "affected_populations": [
+        "high school students",
+        "university students"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Dataset Creation",
+        "Network Analysis"
+      ],
+      "methodology_detail": "Analyzes friendship networks and GPA over time",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1606.06121v1",
+    "title": "Quantifying and Reducing Stereotypes in Word Embeddings",
+    "year": 2016,
+    "authors": [
+      "Tolga Bolukbasi",
+      "Kai-Wei Chang",
+      "James Zou",
+      "Venkatesh Saligrama",
+      "Adam Kalai"
+    ],
+    "categories": [
+      "cs.CL",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender stereotypes in word embeddings, highlighting biases that reflect societal gender inequalities. It addresses social bias in AI systems and their potential to perpetuate stereotypes.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focuses on gender stereotypes in language models",
+      "affected_populations": [
+        "women",
+        "gender minorities"
+      ],
+      "methodology": [
+        "Natural Language Processing",
+        "Quantitative Analysis",
+        "Algorithm Development"
+      ],
+      "methodology_detail": "Quantifying and reducing gender bias in embeddings",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1604.08394v2",
+    "title": "Crowdsourcing the Robin Hood effect in cities",
+    "year": 2016,
+    "authors": [
+      "Thomas Louail",
+      "Maxime Lenormand",
+      "Juan Murillo Arias",
+      "José J. Ramasco"
+    ],
+    "categories": [
+      "physics.soc-ph",
+      "cs.CY",
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses socioeconomic inequalities in urban neighborhoods and explores redistribution strategies to promote spatial equity.",
+      "inequality_type": [
+        "economic",
+        "income",
+        "socioeconomic",
+        "geographic"
+      ],
+      "other_detail": "Focuses on spatial and economic disparities in cities",
+      "affected_populations": [
+        "urban residents",
+        "neighborhoods"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Dataset Creation"
+      ],
+      "methodology_detail": "Analyzes credit card transaction data for mobility patterns",
+      "geographic_focus": [
+        "Madrid",
+        "Barcelona"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1604.07180v1",
+    "title": "Observing and Recommending from a Social Web with Biases",
+    "year": 2016,
+    "authors": [
+      "Steffen Staab",
+      "Sophie Stalla-Bourdillon",
+      "Laura Carmichael"
+    ],
+    "categories": [
+      "cs.DB",
+      "cs.LG",
+      "K.5.0; H.2.8"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines algorithmic discrimination against protected groups, addressing bias and fairness issues related to social inequality.",
+      "inequality_type": [
+        "gender",
+        "racial",
+        "ethnic"
+      ],
+      "other_detail": "Focus on algorithmic discrimination and fairness",
+      "affected_populations": [
+        "persons with protected characteristics"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Ethics Analysis"
+      ],
+      "methodology_detail": "Assessing bias and fairness in algorithms",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.85
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1603.08832v1",
+    "title": "Shirtless and Dangerous: Quantifying Linguistic Signals of Gender Bias in an Online Fiction Writing Community",
+    "year": 2016,
+    "authors": [
+      "Ethan Fast",
+      "Tina Vachovsky",
+      "Michael S. Bernstein"
+    ],
+    "categories": [
+      "cs.CL",
+      "cs.SI"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender stereotypes and biases in fiction, addressing gender inequality and social bias in narratives.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "N/A",
+      "affected_populations": [
+        "women",
+        "female authors",
+        "male characters"
+      ],
+      "methodology": [
+        "Natural Language Processing",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analyzes large-scale fiction corpus for gender bias signals",
+      "geographic_focus": null,
+      "ai_relationship": "Measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1602.00795v1",
+    "title": "Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks",
+    "year": 2016,
+    "authors": [
+      "Samuel F. Way",
+      "Daniel B. Larremore",
+      "Aaron Clauset"
+    ],
+    "categories": [
+      "cs.SI",
+      "cs.CY",
+      "physics.soc-ph",
+      "stat.AP"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender disparities in academic hiring, highlighting gender as a key factor. It analyzes how gender influences scholarly productivity, career progression, and hiring outcomes, indicating a focus on gender-based social inequality.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "N/A",
+      "affected_populations": [
+        "women in academia"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Network Modeling"
+      ],
+      "methodology_detail": "Analyzes hiring networks and productivity data",
+      "geographic_focus": [
+        "North America"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1601.04890v2",
+    "title": "Women Through the Glass Ceiling: Gender Asymmetries in Wikipedia",
+    "year": 2016,
+    "authors": [
+      "Claudia Wagner",
+      "Eduardo Graells-Garrido",
+      "David Garcia",
+      "Filippo Menczer"
+    ],
+    "categories": [
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender disparities in Wikipedia content, highlighting biases and inequalities related to gender representation and treatment, which are key aspects of social inequality.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focuses on gender biases in online knowledge platforms",
+      "affected_populations": [
+        "women",
+        "biography subjects"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Qualitative Study"
+      ],
+      "methodology_detail": "Analyzes content and structural differences in Wikipedia articles",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  }
+]

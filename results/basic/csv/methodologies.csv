@@ -1,0 +1,717 @@
+Item,Frequency,Percentage(%)
+Quantitative Analysis,1060,14.97
+Experiment,1040,14.69
+Machine Learning,568,8.02
+Natural Language Processing,500,7.06
+Algorithm Auditing,398,5.62
+Dataset Creation,395,5.58
+Statistical Analysis,229,3.23
+Theoretical Analysis,224,3.16
+Deep Learning,215,3.04
+Literature Review,207,2.92
+Model Development,144,2.03
+Qualitative Study,123,1.74
+Case Study,105,1.48
+Algorithm Development,104,1.47
+System Design,86,1.21
+Survey,84,1.19
+Ethics Analysis,64,0.90
+Fairness Evaluation,43,0.61
+Fairness Analysis,39,0.55
+Simulation,38,0.54
+Empirical Analysis,30,0.42
+Empirical Evaluation,27,0.38
+Analysis,27,0.38
+Causal Inference,21,0.30
+Legal Analysis,20,0.28
+Optimization,18,0.25
+Reinforcement Learning,18,0.25
+Causal Analysis,17,0.24
+Algorithm Design,17,0.24
+Computer Vision,17,0.24
+Empirical Study,17,0.24
+Adversarial Training,17,0.24
+Fairness Metrics,17,0.24
+Data Analysis,16,0.23
+Dataset Analysis,16,0.23
+Benchmarking,14,0.20
+Adversarial Learning,13,0.18
+Bias Mitigation,13,0.18
+Interviews,13,0.18
+Data Augmentation,12,0.17
+Bias Evaluation,12,0.17
+Causal Modeling,11,0.16
+Contrastive Learning,11,0.16
+Experimental Analysis,10,0.14
+Evaluation,10,0.14
+Framework Development,10,0.14
+Network Analysis,9,0.13
+Bias Analysis,9,0.13
+Policy Analysis,8,0.11
+Game Theory,8,0.11
+Constrained Optimization,7,0.10
+Differential Privacy,7,0.10
+Experimental Evaluation,7,0.10
+Experimental,7,0.10
+Content Analysis,7,0.10
+Agent-based modeling,7,0.10
+Representation Learning,7,0.10
+Fairness Optimization,7,0.10
+Fairness Framework,6,0.08
+Mathematical Modeling,6,0.08
+Counterfactual Analysis,6,0.08
+Visualization,6,0.08
+Clustering,6,0.08
+Model Evaluation,6,0.08
+Systematic Review,6,0.08
+Data Mining,5,0.07
+Unsupervised Learning,5,0.07
+Fairness Constraints,5,0.07
+Fairness Algorithms,5,0.07
+Visual Analytics,5,0.07
+Regularization,5,0.07
+Transfer Learning,5,0.07
+Benchmark Creation,5,0.07
+Optimal Transport,4,0.06
+Debiasing Techniques,4,0.06
+User Study,4,0.06
+Fairness Metric Development,4,0.06
+Explainable AI,4,0.06
+Causal Framework,4,0.06
+Human Evaluation,4,0.06
+Performance Evaluation,4,0.06
+Fairness Regularization,4,0.06
+Critical Analysis,4,0.06
+Expert Annotation,4,0.06
+Systematic Evaluation,4,0.06
+Counterfactual Reasoning,4,0.06
+Computational Analysis,3,0.04
+Algorithmic Fairness,3,0.04
+Bayesian Modeling,3,0.04
+Linear Programming,3,0.04
+Adversarial Network,3,0.04
+Fair Machine Learning,3,0.04
+Mathematical Analysis,3,0.04
+Fairness Measures,3,0.04
+Fairness Algorithm,3,0.04
+Fairness Algorithm Development,3,0.04
+Algorithm Debiasing,3,0.04
+Fairness Metrics Evaluation,3,0.04
+Bias mitigation techniques,3,0.04
+Multi-objective Optimization,3,0.04
+Sensitivity Analysis,3,0.04
+Critical Discourse Analysis,3,0.04
+Adversarial Machine Learning,3,0.04
+Information-Theoretic Analysis,3,0.04
+Fairness Testing,3,0.04
+Participatory Design,3,0.04
+Agent-based Modeling,3,0.04
+Workshop,3,0.04
+Interdisciplinary Analysis,3,0.04
+Fairness Metrics Analysis,3,0.04
+Bias Mitigation Strategies,3,0.04
+Causal Discovery,3,0.04
+Mixed-Methods,3,0.04
+Graph Neural Networks,3,0.04
+Knowledge Distillation,3,0.04
+Comparative Analysis,3,0.04
+Manual Annotation,3,0.04
+Fairness Assessment,3,0.04
+Synthetic Data Generation,3,0.04
+Data Collection,3,0.04
+Prompt Engineering,3,0.04
+Adversarial Debiasing,3,0.04
+Social Network Analysis,2,0.03
+Convex Optimization,2,0.03
+Multitask Learning,2,0.03
+Distributionally Robust Optimization,2,0.03
+Principal Component Analysis,2,0.03
+Loss Function Modification,2,0.03
+Bias Mitigation Techniques,2,0.03
+Data Science,2,0.03
+Correlation Analysis,2,0.03
+Data analysis,2,0.03
+Reweighting,2,0.03
+Numerical Analysis,2,0.03
+Fairness Measurement,2,0.03
+Mixed Methods,2,0.03
+Semantic Analysis,2,0.03
+Information Theory,2,0.03
+Robust Optimization,2,0.03
+Latent Class Analysis,2,0.03
+Participatory Action Research,2,0.03
+Critical analysis,2,0.03
+Systematic Analysis,2,0.03
+Formal Verification,2,0.03
+Comparison,2,0.03
+Fairness in AI,2,0.03
+Fairness Strategies,2,0.03
+Empirical Investigation,2,0.03
+Interactive Tool Development,2,0.03
+Post-processing Bias Mitigation,2,0.03
+Human-in-the-loop,2,0.03
+Optimization Model,2,0.03
+Causal Intervention,2,0.03
+Neural Architecture Search,2,0.03
+Sampling Methods,2,0.03
+Computational Modeling,2,0.03
+Data Scraping,2,0.03
+Analytical Study,2,0.03
+Human Annotation,2,0.03
+Multi-Task Learning,2,0.03
+Domain Adaptation,2,0.03
+Distribution Alignment,2,0.03
+Bias Assessment,2,0.03
+Multi-Objective Optimization,2,0.03
+Focus Groups,2,0.03
+Crowdsourcing,2,0.03
+Bias Testing,2,0.03
+Explainability,2,0.03
+Algorithm Evaluation,2,0.03
+Fairness Loss Optimization,2,0.03
+Unsupervised Clustering,2,0.03
+Bias auditing,2,0.03
+Fine-tuning,2,0.03
+Debiasing techniques,2,0.03
+Counterfactual Evaluation,2,0.03
+Benchmark Evaluation,2,0.03
+Interview,2,0.03
+Causal Data Mining,2,0.03
+Fairness Mitigation,2,0.03
+Classification,2,0.03
+Model Fine-tuning,2,0.03
+Causal Mediation Analysis,2,0.03
+Manual validation,2,0.03
+Representation Analysis,2,0.03
+Generative AI,2,0.03
+Qualitative Analysis,2,0.03
+Bayesian Networks,1,0.01
+Graphical Analysis,1,0.01
+Spatial Microsimulation,1,0.01
+Network Modeling,1,0.01
+Longitudinal Study,1,0.01
+Semantic Modeling,1,0.01
+Fairness criteria analysis,1,0.01
+Policy Framework,1,0.01
+Mechanism Design,1,0.01
+Interdisciplinary Collaboration,1,0.01
+Bayesian hierarchical model,1,0.01
+Data-to-data translation,1,0.01
+Text mining,1,0.01
+Computational science,1,0.01
+Empirical analysis,1,0.01
+Bayesian Decision Network,1,0.01
+Generative Modeling,1,0.01
+Mathematical Comparison,1,0.01
+Social Welfare Framework,1,0.01
+Regression-based approach,1,0.01
+Comparison of fairness policies,1,0.01
+Post-Processing,1,0.01
+Analysis of submitted programs,1,0.01
+Causal Graph,1,0.01
+Semidefinite Programming,1,0.01
+Information-Theoretic Framework,1,0.01
+Information Theoretic Analysis,1,0.01
+Supervised Learning,1,0.01
+Text Mining,1,0.01
+Causal Models,1,0.01
+Counterfactual Fairness,1,0.01
+Neural Language Models,1,0.01
+Kernel Methods,1,0.01
+Distributed Framework,1,0.01
+Heuristic Algorithms,1,0.01
+Regularized Optimization,1,0.01
+Simulations,1,0.01
+Variational Autoencoder,1,0.01
+Risk Assessment,1,0.01
+Fairness Modeling,1,0.01
+Morphological Analysis,1,0.01
+Fairgroup Construction,1,0.01
+Mathematical Tools,1,0.01
+Hyperparameter Optimization,1,0.01
+Adversarial Framework,1,0.01
+Subgroup Discovery,1,0.01
+Agent Based Models,1,0.01
+Social Dynamics Analysis,1,0.01
+Interpretability Analysis,1,0.01
+Neural Network,1,0.01
+Fairness Criteria Formalization,1,0.01
+Post-hoc Disparity Mitigation,1,0.01
+Large-scale user study,1,0.01
+Bayesian Network,1,0.01
+Discriminative Modeling,1,0.01
+Field Trial,1,0.01
+Bayesian Optimization,1,0.01
+Heuristic Algorithm,1,0.01
+Heatmap Analysis,1,0.01
+Bibliometric Analysis,1,0.01
+Data Linking,1,0.01
+Bias Auditing,1,0.01
+Game-theoretic explainability,1,0.01
+Counterfactual analysis,1,0.01
+Generalized Synthetic Control Method,1,0.01
+Multi-Armed Bandit Model,1,0.01
+Fairness Techniques,1,0.01
+Variational Inference,1,0.01
+Data-Driven Approach,1,0.01
+Classification Rules Mining,1,0.01
+Technical Solutions,1,0.01
+Markov decision process,1,0.01
+Deep Q-learning,1,0.01
+Computational analysis,1,0.01
+Causal Bayesian Networks,1,0.01
+Formalization,1,0.01
+Empirical Data Analysis,1,0.01
+Variational AutoEncoder,1,0.01
+Fairness-aware Disentangling,1,0.01
+Decomposition,1,0.01
+Adversarial Reweighted Learning,1,0.01
+Social Welfare Theory,1,0.01
+Structural Topic Modeling,1,0.01
+Mitigation Techniques,1,0.01
+Multi-Objective Learning,1,0.01
+Genetic Programming,1,0.01
+Calibration and Simulation,1,0.01
+Propensity Matching,1,0.01
+Disparate Impact index,1,0.01
+Conceptual Framework,1,0.01
+Focus Group,1,0.01
+Prototype Testing,1,0.01
+Bayesian Methods,1,0.01
+Semi-supervised Learning,1,0.01
+Social choice methods,1,0.01
+Metrics development,1,0.01
+Fairness Interventions,1,0.01
+Feature Engineering,1,0.01
+Predictive Fairness,1,0.01
+Debiasing Framework,1,0.01
+Workshops,1,0.01
+Matching,1,0.01
+Fairness-aware learning,1,0.01
+Pseudo-labeling,1,0.01
+Experience Sampling,1,0.01
+Fairness Benchmarking,1,0.01
+Data Pipeline Design,1,0.01
+Bias Assessment Tool,1,0.01
+Formal modeling,1,0.01
+Lab experiment,1,0.01
+Social Psychological Analysis,1,0.01
+Computational Linguistics,1,0.01
+Pre-processing,1,0.01
+Empirical Survey,1,0.01
+Intrinsic Bias Benchmarking,1,0.01
+Speculative Exercise,1,0.01
+Adversarial Examples Generation,1,0.01
+Data Visualization,1,0.01
+Ensemble Framework,1,0.01
+Fairness Methods,1,0.01
+Policy Frameworks,1,0.01
+Fairness Enforcement,1,0.01
+Economic modeling,1,0.01
+Audit Studies,1,0.01
+Commonsense Reasoning,1,0.01
+AI as solution,1,0.01
+Bias detection,1,0.01
+Mitigation strategies,1,0.01
+Theoretical Framework,1,0.01
+Critical Research Framework,1,0.01
+Ethnographic Study,1,0.01
+Conceptual Analysis,1,0.01
+Analytical Model,1,0.01
+Large-scale publication data analysis,1,0.01
+Markov Chain Learning,1,0.01
+Non-linear decomposition,1,0.01
+Mixed-Method,1,0.01
+Benchmark Development,1,0.01
+Synthetic Augmentation,1,0.01
+Information Theoretic Measures,1,0.01
+Expert Commentary,1,0.01
+Critical Theory,1,0.01
+Participatory Approach,1,0.01
+Social Media Analysis,1,0.01
+Bias Catalog Development,1,0.01
+Regularizer Design,1,0.01
+Calibration,1,0.01
+Collaboration with Linux Foundation,1,0.01
+Fairness Constraint Specification,1,0.01
+Qualitative Feedback,1,0.01
+Storytelling,1,0.01
+Research Analysis,1,0.01
+Information-Theoretical Approaches,1,0.01
+Debiasing,1,0.01
+Dataset Comparison,1,0.01
+Sociological Analysis,1,0.01
+Automated graph-based analysis,1,0.01
+Bayesian Statistical Analysis,1,0.01
+Data Annotation,1,0.01
+Value Sensitive Design,1,0.01
+Discourse Analysis,1,0.01
+Incompatibility Results,1,0.01
+Experimental Testing,1,0.01
+Algorithm Recourse,1,0.01
+Causal Fairness Algorithm,1,0.01
+Multilevel Analysis,1,0.01
+Systematic study,1,0.01
+Optimization Framework,1,0.01
+Correlation Study,1,0.01
+Regulatory Analysis,1,0.01
+Fair ML Research,1,0.01
+Unfairness Mitigation,1,0.01
+NLP,1,0.01
+Fairness Criterion Evaluation,1,0.01
+Bias Mitigation Methods,1,0.01
+Comparative Evaluation,1,0.01
+Re-ranking,1,0.01
+Permutation Test,1,0.01
+Categorical Clustering,1,0.01
+Control Theory,1,0.01
+Fairness Criteria Design,1,0.01
+Experimental Study,1,0.01
+Adversarial Modeling,1,0.01
+Metric-based Approach,1,0.01
+Philosophical Framework,1,0.01
+Sentiment Analysis,1,0.01
+Data-driven feedback online optimization,1,0.01
+Mathematical modeling,1,0.01
+Bias Measurement,1,0.01
+Post-processing Framework,1,0.01
+Data-driven models,1,0.01
+Theoretical analysis,1,0.01
+Algorithm Review,1,0.01
+Technical Analysis,1,0.01
+Dataset Auditing,1,0.01
+Numerical Experiments,1,0.01
+Evaluation Paradigm,1,0.01
+Online Learning,1,0.01
+Meta-Learning,1,0.01
+Fairness-aware normalization,1,0.01
+Diffusion analysis,1,0.01
+Synchronization dynamics,1,0.01
+Regex analysis,1,0.01
+Neural embeddings investigation,1,0.01
+Disentangled Representation Learning,1,0.01
+Fairness Objective,1,0.01
+Evolutionary Algorithm,1,0.01
+Graph Embeddings,1,0.01
+Community Engagement,1,0.01
+Fairness Approach,1,0.01
+HCI,1,0.01
+Future Study Suggestions,1,0.01
+Ranking Algorithms,1,0.01
+Critical Empirical Analysis,1,0.01
+KL Loss,1,0.01
+Data-driven framework,1,0.01
+Correspondence Analysis,1,0.01
+Interdisciplinary Approach,1,0.01
+Empirical Risk Minimization,1,0.01
+Group Distributionally Robust Training,1,0.01
+Psychological assessment,1,0.01
+Explainable Artificial Intelligence,1,0.01
+Multimodal Deep Learning,1,0.01
+Distributional Inequality Metrics,1,0.01
+Ensemble Modeling,1,0.01
+Mixed-Integer Optimization,1,0.01
+Numerical Simulations,1,0.01
+Mixed methods,1,0.01
+Lexicon Development,1,0.01
+Model Pruning,1,0.01
+Interdisciplinary Overview,1,0.01
+Bi-level Optimization,1,0.01
+AI fairness analysis,1,0.01
+Manual Evaluation,1,0.01
+Ensemble Methods,1,0.01
+Bias analysis,1,0.01
+Classifier evaluation,1,0.01
+Attribute Annotation,1,0.01
+Synthetic Image Generation,1,0.01
+Semantic Explanation,1,0.01
+Fairness-Aware AI,1,0.01
+AI auditing,1,0.01
+Adversarial Reweighting,1,0.01
+Discriminant Dimensionality Reduction,1,0.01
+Orthogonalization,1,0.01
+Actor-Network Theory,1,0.01
+Quantitative Survey,1,0.01
+Evaluation Method,1,0.01
+Fair-aware Data Augmentation,1,0.01
+Content analysis,1,0.01
+Cosine similarity analysis,1,0.01
+Comparative study,1,0.01
+Pre-processing framework,1,0.01
+Psychological Impact Assessment,1,0.01
+Interpretability Methods,1,0.01
+Ensemble Learning,1,0.01
+Evaluation Methods,1,0.01
+Contrastive input decoding,1,0.01
+Replication of field experiments,1,0.01
+Bayesian Neural Networks,1,0.01
+Design Study,1,0.01
+Questionnaires,1,0.01
+Prompt analysis,1,0.01
+Benchmark Analysis,1,0.01
+Tutorial Evaluation,1,0.01
+Discussion,1,0.01
+Framework Analysis,1,0.01
+Multiverse Analysis,1,0.01
+Analysis of Language Models,1,0.01
+Adversarial Model Evaluation,1,0.01
+Fairness-aware algorithms,1,0.01
+Evaluation criteria,1,0.01
+Synthetic Data Creation,1,0.01
+Ethnography,1,0.01
+Bias mitigation strategies,1,0.01
+Collaboration,1,0.01
+Spectral Analysis,1,0.01
+Participatory Workshop,1,0.01
+Ecosystem-level Analysis,1,0.01
+Epidemiological Modeling,1,0.01
+Semi-structured interview,1,0.01
+Synthetic Perturbations,1,0.01
+Bayesian Inference,1,0.01
+Expectation-Maximization,1,0.01
+Post-hoc Debiasing,1,0.01
+Descriptive Statistics,1,0.01
+Community-sourced benchmark,1,0.01
+Preference Modeling,1,0.01
+Fairness Framework Development,1,0.01
+Proposed Reforms,1,0.01
+Graph Partitioning,1,0.01
+Causality,1,0.01
+Fair Learning,1,0.01
+Fairness Learning,1,0.01
+Tool Development,1,0.01
+A/B Testing,1,0.01
+Computational Pipeline,1,0.01
+Event Analysis,1,0.01
+Error Analysis,1,0.01
+Self-paced reading,1,0.01
+Question answering,1,0.01
+Qualitative analysis,1,0.01
+Simulation Modeling,1,0.01
+Fairness Definition Development,1,0.01
+Community-centered research,1,0.01
+Generative Adversarial Networks,1,0.01
+AI Bias Detection,1,0.01
+Fuzzy Cognitive Maps,1,0.01
+SHAP feature importance,1,0.01
+Taxonomy Development,1,0.01
+Evaluation Metric Analysis,1,0.01
+Knowledge Graph Infusion,1,0.01
+Trend Analysis,1,0.01
+Design Futuring,1,0.01
+Debugging Framework,1,0.01
+Multi-task Learning,1,0.01
+Fairness Attribute Proposal,1,0.01
+Analytical Framework,1,0.01
+Agent-Based Modeling,1,0.01
+Fairness Constraint,1,0.01
+Semi-structured Interviews,1,0.01
+Document Analysis,1,0.01
+Systematic Translation,1,0.01
+Contrastive Self-supervision,1,0.01
+Self-knowledge distillation,1,0.01
+Mutual Information Minimization,1,0.01
+Importance Sampling,1,0.01
+Model Distillation,1,0.01
+Empirical Testing,1,0.01
+Comparative Study,1,0.01
+Adversarial Triggering,1,0.01
+Graph Attention Network,1,0.01
+Bayesian Approach,1,0.01
+Markov Chain Monte Carlo,1,0.01
+Mathematical Definitions,1,0.01
+Learning Algorithms,1,0.01
+Numerical Studies,1,0.01
+Bias Detection,1,0.01
+Participatory Session,1,0.01
+De-biasing framework,1,0.01
+Regression,1,0.01
+Fairness measures evaluation,1,0.01
+Physics-based modeling,1,0.01
+Orthogonality Constraints,1,0.01
+Multi-Agent Framework,1,0.01
+Convergence Analysis,1,0.01
+Multicalibration,1,0.01
+Fairness Libraries,1,0.01
+Graph-based Learning,1,0.01
+Adversarial Architecture,1,0.01
+Graph Embedding,1,0.01
+Fairness Formulation,1,0.01
+Domain-Adversarial Training,1,0.01
+Shapley value analysis,1,0.01
+Community Collaboration,1,0.01
+Community-led Participatory Design,1,0.01
+Bias Mitigation Algorithms,1,0.01
+Economic Modeling,1,0.01
+Biobjective Optimization,1,0.01
+Mixed-Method Design,1,0.01
+Human-based approaches,1,0.01
+Regularization Techniques,1,0.01
+Bias Metrics,1,0.01
+Explainability Methods,1,0.01
+Explainability Tools,1,0.01
+Mathematical Proofs,1,0.01
+Empirical Experiments,1,0.01
+Human-Subject Study,1,0.01
+Genetic Algorithms,1,0.01
+Data Debiasing,1,0.01
+Human-centered Study,1,0.01
+Behavioral Data Collection,1,0.01
+Post-editing Analysis,1,0.01
+Semi-automated search,1,0.01
+Topic analysis,1,0.01
+Fairness Evaluation Framework,1,0.01
+Computer Science Analysis,1,0.01
+Bias Audit,1,0.01
+Bayesian Statistics,1,0.01
+Data Envelopment Analysis,1,0.01
+Fairness Module Design,1,0.01
+Knowledge Graph Creation,1,0.01
+Textual Data Analysis,1,0.01
+Community Partnerships,1,0.01
+Graph Optimal Transport,1,0.01
+Secure Computation,1,0.01
+Formal Certification,1,0.01
+Interval Analysis,1,0.01
+Thematic Analysis,1,0.01
+Design,1,0.01
+Prompting AI models,1,0.01
+Design Thinking,1,0.01
+Bias Detection Methods,1,0.01
+Metrics Evaluation,1,0.01
+Bias Metrics Analysis,1,0.01
+Re-ranking strategies analysis,1,0.01
+User interaction modeling,1,0.01
+Debiasing Technique,1,0.01
+Feasibility Study,1,0.01
+Empirical Validation,1,0.01
+Debiasing Strategy,1,0.01
+AI interpretability methods,1,0.01
+Segmentation,1,0.01
+Hierarchical Clustering,1,0.01
+Descriptive Analysis,1,0.01
+Normative Modeling,1,0.01
+AI bias analysis,1,0.01
+Comparative analysis,1,0.01
+Manual analysis,1,0.01
+Decision tree development,1,0.01
+Focus group discussions,1,0.01
+Research Project,1,0.01
+XAI analysis,1,0.01
+Data Curation,1,0.01
+Generative Adversarial Network,1,0.01
+Probing Techniques,1,0.01
+Causal Decomposition Analysis,1,0.01
+Heterogeneity Assessment,1,0.01
+Instruction Tuning,1,0.01
+Counterfactual Probing,1,0.01
+Explainable Clustering,1,0.01
+Policy Recommendations,1,0.01
+Psychometric Approach,1,0.01
+Invariant Learning,1,0.01
+Community-Engaged Approach,1,0.01
+Linguistic analysis,1,0.01
+Native speaker evaluation,1,0.01
+Empirical comparison,1,0.01
+Interdisciplinary review,1,0.01
+Expert panel discussion,1,0.01
+Framework Application,1,0.01
+Human evaluation,1,0.01
+Automatic quality metrics,1,0.01
+Sampling Strategy,1,0.01
+Expert Evaluation,1,0.01
+Field Studies,1,0.01
+Computational Models,1,0.01
+Mining Techniques,1,0.01
+Benchmark Framework,1,0.01
+Large-scale textual analysis,1,0.01
+Econometric Framework,1,0.01
+Adversarial Attacking,1,0.01
+Workshop Analysis,1,0.01
+Surveys,1,0.01
+Augmented Reality,1,0.01
+Scoping Study,1,0.01
+Red-teaming,1,0.01
+Historical Research,1,0.01
+Community Outreach,1,0.01
+Digital App Development,1,0.01
+Computer Science Literature Review,1,0.01
+Evolutionary Multi-Objective Optimisation,1,0.01
+Aggregation,1,0.01
+Monte Carlo sampling,1,0.01
+Fairness-aware Learning,1,0.01
+Bayesian Analysis,1,0.01
+Simulation Experiments,1,0.01
+Dataset Evaluation,1,0.01
+Mitigation,1,0.01
+Large-scale Evaluation,1,0.01
+Fairness Metric Evaluation,1,0.01
+Knowledge Editing,1,0.01
+Co-design activities,1,0.01
+Algorithmic Intervention,1,0.01
+Critique,1,0.01
+Feature Selection,1,0.01
+Fairness Dataset Creation,1,0.01
+Disentanglement Learning,1,0.01
+Fairness Integration,1,0.01
+Variational Auto-Encoder,1,0.01
+Influence Maximization,1,0.01
+Fairness Constraint Design,1,0.01
+Framework Design,1,0.01
+Counterfactual Data Augmentation,1,0.01
+Psychological Research,1,0.01
+Evaluation of algorithms,1,0.01
+Counterfactual Scenarios,1,0.01
+Distributionally Robust Optimisation,1,0.01
+Activation Steering,1,0.01
+Agent-based simulation,1,0.01
+Active Learning,1,0.01
+Multi-armed Bandits,1,0.01
+Annotation Framework,1,0.01
+Design Workshops,1,0.01
+Fairness-aware clustering,1,0.01
+Fairness-aware Reweighting,1,0.01
+Linguistic Analysis,1,0.01
+Behavioral Study,1,0.01
+Expert Interviews,1,0.01
+Stance Detection,1,0.01
+Multimodal Analysis,1,0.01
+Sociological Framework,1,0.01
+Bias assessment,1,0.01
+Bias Benchmarking,1,0.01
+Mechanistic Interpretability,1,0.01
+Fairness Checks,1,0.01
+Rule-based Fairness,1,0.01
+Large-scale Data Analysis,1,0.01
+Post-processing,1,0.01
+Federated Learning,1,0.01
+Critical Self-Reflexivity,1,0.01
+Prompting Approaches,1,0.01
+Workshop Study,1,0.01
+Participatory Research,1,0.01
+Fairness-aware Fine-tuning,1,0.01
+User Modeling,1,0.01
+Hand Annotation,1,0.01
+Semantic Shift Measurement,1,0.01
+Causal Reasoning,1,0.01
+Representation Engineering,1,0.01
+Diffusion Model Development,1,0.01
+Randomized Controlled Trials,1,0.01
+Linear analysis,1,0.01
+Fairness Auditing,1,0.01
+User interactions,1,0.01
+Focus groups,1,0.01
+Mechanistic interpretability,1,0.01
+Proposed mitigation strategy,1,0.01
+Simulation Studies,1,0.01
+Manual Labeling,1,0.01
+Comparison Analysis,1,0.01
+System Analysis,1,0.01
+Corpus Construction,1,0.01
+Synthetic Environment Analysis,1,0.01
+Research Projects,1,0.01
+Post-processing Adjustment,1,0.01
+Text and image analysis,1,0.01
+Algorithm Search,1,0.01
+Data Selection,1,0.01
+Fairness Adaptation,1,0.01

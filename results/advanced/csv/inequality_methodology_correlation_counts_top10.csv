@@ -1,0 +1,11 @@
+,Quantitative Analysis,Experiment,Machine Learning,Natural Language Processing,Algorithm Auditing,Dataset Creation,Statistical Analysis,Theoretical Analysis,Deep Learning,Literature Review
+racial/ethnic,640.0,794.0,460.0,284.0,351.0,279.0,183.0,162.0,195.0,145.0
+gender,653.0,822.0,400.0,424.0,294.0,291.0,151.0,106.0,152.0,122.0
+socioeconomic,510.0,233.0,263.0,60.0,158.0,82.0,111.0,156.0,62.0,95.0
+social,95.0,133.0,74.0,62.0,72.0,37.0,29.0,60.0,17.0,49.0
+educational,150.0,108.0,77.0,31.0,69.0,33.0,28.0,57.0,15.0,50.0
+health,135.0,99.0,107.0,23.0,43.0,39.0,30.0,17.0,64.0,36.0
+geographic,137.0,30.0,37.0,15.0,13.0,33.0,15.0,7.0,11.0,26.0
+age,87.0,90.0,50.0,23.0,30.0,39.0,26.0,4.0,34.0,6.0
+disability,52.0,54.0,19.0,24.0,26.0,20.0,9.0,19.0,8.0,31.0
+info/digital,71.0,35.0,19.0,12.0,19.0,18.0,9.0,16.0,4.0,27.0

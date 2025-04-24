@@ -1,0 +1,1537 @@
+[
+  {
+    "id": "http://arxiv.org/abs/1712.09124v2",
+    "title": "Demographics and discussion influence views on algorithmic fairness",
+    "year": 2017,
+    "authors": [
+      "Emma Pierson"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines demographic differences and social perceptions related to algorithmic fairness, a key social justice issue. It discusses how beliefs vary by gender and how discussion can influence opinions, addressing social bias and inequality in AI decision-making.",
+      "inequality_type": [
+        "gender",
+        "educational",
+        "informational"
+      ],
+      "other_detail": "Focuses on gender differences in fairness perceptions",
+      "affected_populations": [
+        "women",
+        "students"
+      ],
+      "methodology": [
+        "Survey",
+        "Longitudinal Study"
+      ],
+      "methodology_detail": "Surveys of populations and students in CS classes",
+      "geographic_focus": null,
+      "ai_relationship": "AI as subject of regulation",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1712.08238v2",
+    "title": "Interventions over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment",
+    "year": 2017,
+    "authors": [
+      "Chelsea Barabas",
+      "Karthik Dinakar",
+      "Joichi Ito",
+      "Madars Virza",
+      "Jonathan Zittrain"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.CY",
+      "stat.AP"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper discusses criminal justice biases related to race and social drivers, addressing social discrimination and fairness issues in AI systems.",
+      "inequality_type": [
+        "racial",
+        "social",
+        "justice"
+      ],
+      "other_detail": "Focus on criminal justice and social biases",
+      "affected_populations": [
+        "racial minorities",
+        "criminal offenders"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Causal Inference",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Using ML and causal models for social analysis",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1712.08197v1",
+    "title": "Fair Forests: Regularized Tree Induction to Minimize Model Bias",
+    "year": 2017,
+    "authors": [
+      "Edward Raff",
+      "Jared Sylvester",
+      "Steven Mills"
+    ],
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses fairness in AI, focusing on social bias and discrimination mitigation.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic",
+        "educational"
+      ],
+      "other_detail": "Focuses on algorithmic fairness and bias reduction",
+      "affected_populations": [
+        "social groups",
+        "disadvantaged communities"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Algorithm Auditing",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Develops fair decision tree algorithms and evaluation procedures",
+      "geographic_focus": null,
+      "ai_relationship": "AI as solution",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1712.07924v2",
+    "title": "Matching Code and Law: Achieving Algorithmic Fairness with Optimal Transport",
+    "year": 2017,
+    "authors": [
+      "Meike Zehlike",
+      "Philipp Hacker",
+      "Emil Wiedemann"
+    ],
+    "categories": [
+      "cs.CY",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses algorithmic fairness, discrimination, and legal implications related to social groups, indicating a focus on social inequalities such as race, gender, and intersectionality.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "intersectionality",
+        "social"
+      ],
+      "other_detail": "Focus on algorithmic discrimination and fairness trade-offs",
+      "affected_populations": [
+        "racial minorities",
+        "women",
+        "disadvantaged groups"
+      ],
+      "methodology": [
+        "Optimal Transport",
+        "Quantitative Analysis",
+        "Algorithm Design"
+      ],
+      "methodology_detail": "Uses optimal transport theory for fairness optimization",
+      "geographic_focus": null,
+      "ai_relationship": "AI as solution",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1712.00064v2",
+    "title": "A Short-term Intervention for Long-term Fairness in the Labor Market",
+    "year": 2017,
+    "authors": [
+      "Lily Hu",
+      "Yiling Chen"
+    ],
+    "categories": [
+      "cs.GT",
+      "q-fin.GN"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines racial disparities in the U.S. labor market and proposes interventions to address persistent inequalities, indicating a focus on social inequality issues.",
+      "inequality_type": [
+        "racial",
+        "socioeconomic"
+      ],
+      "other_detail": "Focuses on racial inequality in employment outcomes",
+      "affected_populations": [
+        "racial minorities",
+        "disadvantaged groups"
+      ],
+      "methodology": [
+        "Theoretical Analysis",
+        "Model Development"
+      ],
+      "methodology_detail": "Dynamic reputational model of labor market",
+      "geographic_focus": [
+        "United States"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1711.11066v2",
+    "title": "Paradoxes in Fair Computer-Aided Decision Making",
+    "year": 2017,
+    "authors": [
+      "Andrew Morgan",
+      "Rafael Pass"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.CY"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper discusses fairness and discrimination in algorithmic decision-making affecting social groups, notably racial groups in criminal justice.",
+      "inequality_type": [
+        "racial",
+        "social discrimination"
+      ],
+      "other_detail": "Focuses on fairness in algorithmic decision-making processes",
+      "affected_populations": [
+        "racial minorities",
+        "criminal defendants"
+      ],
+      "methodology": [
+        "Theoretical Analysis",
+        "Algorithm Auditing"
+      ],
+      "methodology_detail": "Analyzes fairness conditions and decision-making frameworks",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier/discriminator",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1711.07111v1",
+    "title": "Modeling Epistemological Principles for Bias Mitigation in AI Systems: An Illustration in Hiring Decisions",
+    "year": 2017,
+    "authors": [
+      "Marisa Vasconcelos",
+      "Carlos Cardonha",
+      "Bernardo Gonçalves"
+    ],
+    "categories": [
+      "cs.AI"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper discusses bias and fairness issues in AI, particularly in hiring, which relate to social discrimination and inequality across groups.",
+      "inequality_type": [
+        "gender",
+        "racial",
+        "educational"
+      ],
+      "other_detail": "Focus on bias mitigation in employment decisions",
+      "affected_populations": [
+        "job applicants",
+        "potential employees"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Theoretical Analysis",
+        "System Design"
+      ],
+      "methodology_detail": "Epistemological principles applied to bias mitigation framework",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1711.05144v5",
+    "title": "Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness",
+    "year": 2017,
+    "authors": [
+      "Michael Kearns",
+      "Seth Neel",
+      "Aaron Roth",
+      "Zhiwei Steven Wu"
+    ],
+    "categories": [
+      "cs.LG",
+      "cs.DS",
+      "cs.GT"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses fairness in AI, focusing on subgroup fairness and preventing discrimination across structured groups defined by protected attributes, which relates to social inequalities such as race, gender, and other social categories.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic"
+      ],
+      "other_detail": "Focus on fairness across social groups in AI systems",
+      "affected_populations": [
+        "racial minorities",
+        "women",
+        "social groups"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Statistical Analysis",
+        "Machine Learning"
+      ],
+      "methodology_detail": "Auditing and learning algorithms for fairness",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1710.06921v1",
+    "title": "Themis-ml: A Fairness-aware Machine Learning Interface for End-to-end Discrimination Discovery and Mitigation",
+    "year": 2017,
+    "authors": [
+      "Niels Bantilan"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on fairness in machine learning to address social biases and disparities in decision-making processes affecting marginalized groups.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic",
+        "discrimination"
+      ],
+      "other_detail": "Addresses algorithmic fairness and bias mitigation",
+      "affected_populations": [
+        "social minorities",
+        "disadvantaged groups"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Fairness Evaluation",
+        "Algorithm Auditing"
+      ],
+      "methodology_detail": "Fairness-aware ML interface development and assessment",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1710.05895v1",
+    "title": "Spectral Algorithms for Computing Fair Support Vector Machines",
+    "year": 2017,
+    "authors": [
+      "Matt Olfat",
+      "Anil Aswani"
+    ],
+    "categories": [
+      "cs.LG",
+      "math.OC",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on designing fair classifiers to prevent discrimination based on protected classes such as race and gender, directly addressing social fairness issues.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "disability"
+      ],
+      "other_detail": "Fairness in AI classifiers",
+      "affected_populations": [
+        "racial minorities",
+        "women",
+        "disabled individuals"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Spectral decomposition and iterative algorithms for fairness",
+      "geographic_focus": null,
+      "ai_relationship": "AI as solution",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1710.04117v1",
+    "title": "Analyzing Gender Stereotyping in Bollywood Movies",
+    "year": 2017,
+    "authors": [
+      "Nishtha Madaan",
+      "Sameep Mehta",
+      "Taneea S Agrawaal",
+      "Vrinda Malhotra",
+      "Aditi Aggarwal",
+      "Mayank Saxena"
+    ],
+    "categories": [
+      "cs.SI",
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender stereotypes and bias in Bollywood movies, addressing gender inequality and social bias in media representations.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "",
+      "affected_populations": [
+        "women",
+        "female characters"
+      ],
+      "methodology": [
+        "Natural Language Processing",
+        "Semantic Modeling",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analyzes movie plots, posters, trailers for gender bias",
+      "geographic_focus": [
+        "India"
+      ],
+      "ai_relationship": "Measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1710.03705v2",
+    "title": "Analyzing gender inequality through large-scale Facebook advertising data",
+    "year": 2017,
+    "authors": [
+      "David Garcia",
+      "Yonas Mitike Kassa",
+      "Angel Cuevas",
+      "Manuel Cebrian",
+      "Esteban Moro",
+      "Iyad Rahwan",
+      "Ruben Cuevas"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender disparities in social media use and their societal implications, addressing gender inequality and digital divides.",
+      "inequality_type": [
+        "gender",
+        "digital",
+        "educational",
+        "economic"
+      ],
+      "other_detail": "Focuses on gender inequality in online social media",
+      "affected_populations": [
+        "women",
+        "social media users"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Uses large-scale aggregated Facebook data",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1709.03221v1",
+    "title": "Fairness Testing: Testing Software for Discrimination",
+    "year": 2017,
+    "authors": [
+      "Sainyam Galhotra",
+      "Yuriy Brun",
+      "Alexandra Meliou"
+    ],
+    "categories": [
+      "cs.SE",
+      "cs.AI",
+      "cs.CY",
+      "cs.DB",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on software discrimination, which relates to social biases affecting marginalized groups, and discusses fairness testing in AI systems that impact social outcomes.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic",
+        "disability"
+      ],
+      "other_detail": "Focus on discrimination in decision-making software",
+      "affected_populations": [
+        "minority groups",
+        "vulnerable populations"
+      ],
+      "methodology": [
+        "Experiment",
+        "Algorithm Auditing",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Testing software for discriminatory behavior",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1708.02274v1",
+    "title": "FixMyStreet Brussels: Socio-Demographic Inequality in Crowdsourced Civic Participation",
+    "year": 2017,
+    "authors": [
+      "Burak Pak",
+      "Alvin Chua",
+      "Andrew Vande Moere"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.HC",
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines disparities in civic participation across socio-demographic groups, highlighting marginalization of low-income and ethnically diverse communities. It analyzes how technology use varies by social factors, indicating social inequality. The focus on socio-demographic differences confirms its relevance to social inequality issues.",
+      "inequality_type": [
+        "socioeconomic",
+        "ethnic"
+      ],
+      "other_detail": "Focus on civic participation disparities",
+      "affected_populations": [
+        "low-income communities",
+        "ethnically diverse groups"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Analyzes reports and social media data",
+      "geographic_focus": [
+        "Brussels"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1708.00754v1",
+    "title": "Fairness-aware machine learning: a perspective",
+    "year": 2017,
+    "authors": [
+      "Indre Zliobaite"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.CY",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper discusses algorithmic discrimination and fairness issues affecting vulnerable social groups, highlighting social bias and inequality concerns in AI decision-making.",
+      "inequality_type": [
+        "racial",
+        "ethnic",
+        "socioeconomic",
+        "educational"
+      ],
+      "other_detail": "Focus on algorithmic discrimination and fairness mechanisms",
+      "affected_populations": [
+        "ethnic minorities",
+        "vulnerable groups"
+      ],
+      "methodology": [
+        "Theoretical Analysis",
+        "Algorithm Auditing"
+      ],
+      "methodology_detail": "Analyzing computational roots of discrimination",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.09457v1",
+    "title": "Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints",
+    "year": 2017,
+    "authors": [
+      "Jieyu Zhao",
+      "Tianlu Wang",
+      "Mark Yatskar",
+      "Vicente Ordonez",
+      "Kai-Wei Chang"
+    ],
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CV",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses gender bias in AI models trained on web data, highlighting social bias amplification. It discusses disparities related to gender roles, which are social inequalities. The focus on bias reduction in AI systems relates directly to social fairness issues.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Bias amplification in visual recognition models",
+      "affected_populations": [
+        "women",
+        "gender minorities"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Algorithm Auditing",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Bias measurement and mitigation techniques in AI models",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.08120v1",
+    "title": "Proxy Non-Discrimination in Data-Driven Systems",
+    "year": 2017,
+    "authors": [
+      "Anupam Datta",
+      "Matt Fredrikson",
+      "Gihyuk Ko",
+      "Piotr Mardziel",
+      "Shayak Sen"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses biases in AI systems related to protected classes, which are central to social inequality issues such as discrimination based on race, gender, or other social categories.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "social"
+      ],
+      "other_detail": "Bias detection and mitigation in AI systems",
+      "affected_populations": [
+        "disadvantaged groups",
+        "protected classes"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Statistical Analysis",
+        "Experiment"
+      ],
+      "methodology_detail": "Evaluates bias detection and repair methods",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.02353v1",
+    "title": "Evaluating race and sex diversity in the world's largest companies using deep neural networks",
+    "year": 2017,
+    "authors": [
+      "Konstantin Chekanov",
+      "Polina Mamoshina",
+      "Roman V. Yampolskiy",
+      "Radu Timofte",
+      "Morten Scheibye-Knudsen",
+      "Alex Zhavoronkov"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper assesses organizational diversity related to race and sex, addressing social discrimination and bias. It uses AI to evaluate disparities in gender and racial representation, which are key social inequality issues.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic"
+      ],
+      "other_detail": "Focus on organizational and corporate diversity assessment",
+      "affected_populations": [
+        "racial groups",
+        "gender groups"
+      ],
+      "methodology": [
+        "Deep Learning",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Using neural networks to predict diversity ratios",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.02260v1",
+    "title": "Fair Personalization",
+    "year": 2017,
+    "authors": [
+      "L. Elisa Celis",
+      "Nisheeth K. Vishnoi"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.DS",
+      "cs.IR",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The abstract discusses biases in personalization algorithms that can propagate societal or systemic inequalities, indicating a focus on social fairness issues.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic",
+        "discrimination"
+      ],
+      "other_detail": "Bias mitigation in algorithmic personalization",
+      "affected_populations": [
+        "social groups",
+        "users"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "System Design",
+        "Theoretical Analysis"
+      ],
+      "methodology_detail": "Framework for controlling biased personalization",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.01590v1",
+    "title": "Fairness at Equilibrium in the Labor Market",
+    "year": 2017,
+    "authors": [
+      "Lily Hu",
+      "Yiling Chen"
+    ],
+    "categories": [
+      "cs.GT"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses employment discrimination and fairness, which relate to social inequalities such as race, gender, and socioeconomic status, within labor markets.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic"
+      ],
+      "other_detail": "Focus on employment discrimination and fairness interventions",
+      "affected_populations": [
+        "disadvantaged groups"
+      ],
+      "methodology": [
+        "Theoretical Analysis",
+        "Model Development"
+      ],
+      "methodology_detail": "Labor market modeling with fairness constraints",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.01477v1",
+    "title": "Like trainer, like bot? Inheritance of bias in algorithmic content moderation",
+    "year": 2017,
+    "authors": [
+      "Reuben Binns",
+      "Michael Veale",
+      "Max Van Kleek",
+      "Nigel Shadbolt"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.CL",
+      "cs.LG",
+      "H.1.2; I.2.6; I.2.1; J.7; J.4; K.4.1; K.4.3; K.5.2; I.2.7; K.4.2"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines biases in algorithmic content moderation related to demographic groups, particularly gender, which relates to social discrimination and bias. It discusses how normative biases affect different social groups' participation online. The focus on demographic differences and fairness issues indicates a direct engagement with social inequality concerns.",
+      "inequality_type": [
+        "gender",
+        "social bias"
+      ],
+      "other_detail": "Bias measurement in algorithmic moderation systems",
+      "affected_populations": [
+        "online users",
+        "gender groups"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Experiment",
+        "Dataset Creation"
+      ],
+      "methodology_detail": "Training classifiers on demographic-labeled comments",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.00780v4",
+    "title": "Discriminatory Transfer",
+    "year": 2017,
+    "authors": [
+      "Chao Lan",
+      "Jun Huan"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines fairness issues in transfer learning, highlighting social bias implications.",
+      "inequality_type": [
+        "racial",
+        "fairness"
+      ],
+      "other_detail": "Focuses on algorithmic fairness and social bias in AI",
+      "affected_populations": [
+        "social groups",
+        "communities"
+      ],
+      "methodology": [
+        "Experiment",
+        "Case Study"
+      ],
+      "methodology_detail": "Analyzes fairness transfer in real-world data",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.00061v1",
+    "title": "Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English",
+    "year": 2017,
+    "authors": [
+      "Su Lin Blodgett",
+      "Brendan O'Connor"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.CL"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines racial disparities in NLP algorithms applied to African-American English, highlighting social bias and inequality in technology's impact on racial groups.",
+      "inequality_type": [
+        "racial",
+        "linguistic"
+      ],
+      "other_detail": "Focus on racial disparity in language processing",
+      "affected_populations": [
+        "African-American English speakers"
+      ],
+      "methodology": [
+        "Empirical Analysis",
+        "Natural Language Processing"
+      ],
+      "methodology_detail": "Analyzes language identification accuracy in tweets",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1707.00046v1",
+    "title": "Fairer and more accurate, but for whom?",
+    "year": 2017,
+    "authors": [
+      "Alexandra Chouldechova",
+      "Max G'Sell"
+    ],
+    "categories": [
+      "stat.AP",
+      "cs.CY",
+      "stat.ML"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on fairness and disparities in model performance across social subgroups, specifically racial and gender disparities, in high-stakes decision-making.",
+      "inequality_type": [
+        "racial",
+        "gender"
+      ],
+      "other_detail": "Focus on fairness in AI decision models",
+      "affected_populations": [
+        "racial groups",
+        "gender groups"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Statistical Analysis",
+        "Experiment"
+      ],
+      "methodology_detail": "Model comparison and subgroup analysis",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1706.08619v1",
+    "title": "White, Man, and Highly Followed: Gender and Race Inequalities in Twitter",
+    "year": 2017,
+    "authors": [
+      "Johnnatan Messias",
+      "Pantelis Vikatos",
+      "Fabricio Benevenuto"
+    ],
+    "categories": [
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper investigates racial and gender disparities in Twitter interactions and influence, highlighting inequalities in social positioning based on demographic factors.",
+      "inequality_type": [
+        "racial",
+        "gender"
+      ],
+      "other_detail": "Focus on social media influence disparities",
+      "affected_populations": [
+        "White users",
+        "male users",
+        "Black users",
+        "Asian users"
+      ],
+      "methodology": [
+        "Computer Vision",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Face recognition and interaction metrics analysis",
+      "geographic_focus": [
+        "United States"
+      ],
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1706.06368v3",
+    "title": "FA*IR: A Fair Top-k Ranking Algorithm",
+    "year": 2017,
+    "authors": [
+      "Meike Zehlike",
+      "Francesco Bonchi",
+      "Carlos Castillo",
+      "Sara Hajian",
+      "Mohamed Megahed",
+      "Ricardo Baeza-Yates"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.IR",
+      "H.3.3; J.1"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses fairness in rankings, focusing on representation of protected groups, which relates to social discrimination and inequality issues.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic"
+      ],
+      "other_detail": "Fairness in ranked AI systems",
+      "affected_populations": [
+        "protected groups",
+        "underrepresented groups"
+      ],
+      "methodology": [
+        "Algorithm Development",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Fairness algorithm grounded in statistical tests",
+      "geographic_focus": null,
+      "ai_relationship": "AI as solution",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1706.03848v1",
+    "title": "\"(Weitergeleitet von Journalistin)\": The Gendered Presentation of Professions on Wikipedia",
+    "year": 2017,
+    "authors": [
+      "Olga Zagovora",
+      "Fabian Flöck",
+      "Claudia Wagner"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender bias in Wikipedia, highlighting gender disparities in profession representation, which relates directly to social gender inequality.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "None",
+      "affected_populations": [
+        "women",
+        "men"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Content analysis and comparison with labor data",
+      "geographic_focus": [
+        "Germany"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1706.03102v1",
+    "title": "Big Data, Data Science, and Civil Rights",
+    "year": 2017,
+    "authors": [
+      "Solon Barocas",
+      "Elizabeth Bradley",
+      "Vasant Honavar",
+      "Foster Provost"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The abstract discusses fairness, bias, and discrimination in data-driven decision making affecting social groups.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic",
+        "educational",
+        "discrimination"
+      ],
+      "other_detail": "Focus on algorithmic fairness and social justice implications",
+      "affected_populations": [
+        "minorities",
+        "women",
+        "students",
+        "consumers"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Fairness Analysis",
+        "Literature Review"
+      ],
+      "methodology_detail": "Assessing bias and fairness in models and procedures",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier of social bias",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1705.04774v1",
+    "title": "Bias and variance in the social structure of gender",
+    "year": 2017,
+    "authors": [
+      "Kristen M. Altenburger",
+      "Johan Ugander"
+    ],
+    "categories": [
+      "cs.SI"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender preferences and social structures, highlighting issues related to gender homophily and monophily, which relate to gender-based social biases and attribute prediction challenges.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focus on gender preferences and social network structures",
+      "affected_populations": [
+        "gender groups"
+      ],
+      "methodology": [
+        "Statistical Analysis",
+        "Dataset Creation"
+      ],
+      "methodology_detail": "Analyzes social network data for structural patterns",
+      "geographic_focus": [
+        "U.S. colleges",
+        "U.S. high schools"
+      ],
+      "ai_relationship": "Measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1705.02972v1",
+    "title": "Why Do Men Get More Attention? Exploring Factors Behind Success in an Online Design Community",
+    "year": 2017,
+    "authors": [
+      "Johannes Wachs",
+      "Anikó Hannák",
+      "András Vörös",
+      "Bálint Daróczy"
+    ],
+    "categories": [
+      "cs.SI",
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender disparities in online design communities, analyzing social biases and network positioning that influence success, directly addressing gender inequality.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "",
+      "affected_populations": [
+        "women",
+        "men"
+      ],
+      "methodology": [
+        "Social Network Analysis",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analyzes user behavior and social networks in Dribbble",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1705.02004v1",
+    "title": "A Rural Lens on a Research Agenda for Intelligent Infrastructure",
+    "year": 2017,
+    "authors": [
+      "Ellen Zegura",
+      "Beki Grinter",
+      "Elizabeth Belding",
+      "Klara Nahrstedt"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper discusses disparities faced by rural communities, including aging populations and access issues, highlighting geographic and socioeconomic inequalities. It emphasizes ensuring rural populations are not left behind in technological advancements, addressing social inclusion. No explicit focus on race, gender, or health disparities is mentioned, but the emphasis on inequality in access and opportunity qualifies it.",
+      "inequality_type": [
+        "geographic",
+        "socioeconomic"
+      ],
+      "other_detail": "Focus on rural access and inclusion",
+      "affected_populations": [
+        "rural residents",
+        "aging adults",
+        "veterans"
+      ],
+      "methodology": [
+        "Literature Review",
+        "System Design"
+      ],
+      "methodology_detail": "Inclusive vision and infrastructure planning",
+      "geographic_focus": [
+        "United States"
+      ],
+      "ai_relationship": "AI as solution",
+      "confidence": 0.8
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1704.05801v3",
+    "title": "Gender Disparities in Science? Dropout, Productivity, Collaborations and Success of Male and Female Computer Scientists",
+    "year": 2017,
+    "authors": [
+      "Mohsen Jadidi",
+      "Fariba Karimi",
+      "Haiko Lietz",
+      "Claudia Wagner"
+    ],
+    "categories": [
+      "physics.soc-ph",
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender disparities in scientific collaboration, success, and dropout rates, directly addressing gender inequality in academia.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "N/A",
+      "affected_populations": [
+        "female scientists",
+        "male scientists"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analysis of collaboration patterns over 47 years",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1704.03354v1",
+    "title": "Optimized Data Pre-Processing for Discrimination Prevention",
+    "year": 2017,
+    "authors": [
+      "Flavio P. Calmon",
+      "Dennis Wei",
+      "Karthikeyan Natesan Ramamurthy",
+      "Kush R. Varshney"
+    ],
+    "categories": [
+      "stat.ML",
+      "cs.CY",
+      "cs.IT",
+      "math.IT"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on reducing discrimination in algorithmic decision making, addressing social bias and fairness issues related to discrimination, which are key aspects of social inequality.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic"
+      ],
+      "other_detail": "Focuses on bias in criminal recidivism data",
+      "affected_populations": [
+        "minority groups",
+        "criminal justice populations"
+      ],
+      "methodology": [
+        "Convex Optimization",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Data transformation to reduce bias and utility loss",
+      "geographic_focus": null,
+      "ai_relationship": "AI as solution",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1704.01572v1",
+    "title": "Inferring Personal Economic Status from Social Network Location",
+    "year": 2017,
+    "authors": [
+      "Shaojun Luo",
+      "Flaviano Morone",
+      "Carlos Sarraute",
+      "Matías Travizano",
+      "Hernán A. Makse"
+    ],
+    "categories": [
+      "physics.soc-ph",
+      "cs.SI",
+      "91D30, 05C82"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper investigates how social network positions relate to economic status and inequality patterns, implying a focus on socioeconomic disparities.",
+      "inequality_type": [
+        "economic",
+        "socioeconomic"
+      ],
+      "other_detail": "Focuses on economic wellbeing and inequality patterns",
+      "affected_populations": [
+        "general population"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Network Analysis",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Analyzes large-scale telecommunications and financial data",
+      "geographic_focus": [
+        null
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1703.06856v3",
+    "title": "Counterfactual Fairness",
+    "year": 2017,
+    "authors": [
+      "Matt J. Kusner",
+      "Joshua R. Loftus",
+      "Chris Russell",
+      "Ricardo Silva"
+    ],
+    "categories": [
+      "stat.ML",
+      "cs.CY",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses fairness in decision-making affecting marginalized groups, focusing on racial and demographic biases. It develops a causal inference framework to ensure equitable treatment, directly engaging with social discrimination issues.",
+      "inequality_type": [
+        "racial",
+        "demographic",
+        "educational"
+      ],
+      "other_detail": "Focuses on fairness in automated decision systems",
+      "affected_populations": [
+        "racial minorities",
+        "gender groups",
+        "demographic groups"
+      ],
+      "methodology": [
+        "Causal Inference",
+        "Fairness Framework"
+      ],
+      "methodology_detail": "Uses causal tools to model fairness conditions",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1703.00056v1",
+    "title": "Fair prediction with disparate impact: A study of bias in recidivism prediction instruments",
+    "year": 2017,
+    "authors": [
+      "Alexandra Chouldechova"
+    ],
+    "categories": [
+      "stat.AP",
+      "cs.CY",
+      "stat.ML"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines bias and fairness in recidivism prediction, which impacts racial and social groups. It discusses discriminatory effects and disparate impact, indicating a focus on social inequalities.",
+      "inequality_type": [
+        "racial",
+        "social",
+        "discrimination"
+      ],
+      "other_detail": "Focus on bias in criminal justice algorithms",
+      "affected_populations": [
+        "racial minorities",
+        "criminal defendants"
+      ],
+      "methodology": [
+        "Fairness criteria analysis",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Analyzes fairness criteria and error rates",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1702.08536v3",
+    "title": "Fast Threshold Tests for Detecting Discrimination",
+    "year": 2017,
+    "authors": [
+      "Emma Pierson",
+      "Sam Corbett-Davies",
+      "Sharad Goel"
+    ],
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on detecting bias in decisions like policing, which relates to racial discrimination. It analyzes social bias in algorithmic decision-making, a key aspect of social inequality.",
+      "inequality_type": [
+        "racial",
+        "social discrimination"
+      ],
+      "other_detail": "Focuses on bias detection in policing decisions",
+      "affected_populations": [
+        "minorities",
+        "pedestrians"
+      ],
+      "methodology": [
+        "Statistical Analysis",
+        "Algorithm Auditing"
+      ],
+      "methodology_detail": "Develops faster threshold testing methods for bias detection",
+      "geographic_focus": [
+        "New York City"
+      ],
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1702.01807v2",
+    "title": "How well can machine learning predict demographics of social media users?",
+    "year": 2017,
+    "authors": [
+      "Nina Cesare",
+      "Christan Grant",
+      "Quynh Nguyen",
+      "Hedwig Lee",
+      "Elaine O. Nsoesie"
+    ],
+    "categories": [
+      "cs.SI",
+      "cs.CY"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper discusses inferring demographics to address bias and representation issues, which relate to social inequalities such as race, gender, and socioeconomic status.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic",
+        "educational"
+      ],
+      "other_detail": "Focus on demographic inference for social equity",
+      "affected_populations": [
+        "social media users",
+        "underrepresented groups"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Using data inference techniques for demographic prediction",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1702.00829v1",
+    "title": "Measuring Gender Inequalities of German Professions on Wikipedia",
+    "year": 2017,
+    "authors": [
+      "Olga Zagovora"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.SI",
+      "G.3; H.3.1; H.5.3; I.2.7; J.4"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender bias in Wikipedia, addressing gender inequality in professional representation.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focus on gender bias in online knowledge resources",
+      "affected_populations": [
+        "women",
+        "men"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analysis of Wikipedia articles on professions",
+      "geographic_focus": [
+        "Germany"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1701.08230v4",
+    "title": "Algorithmic decision making and the cost of fairness",
+    "year": 2017,
+    "authors": [
+      "Sam Corbett-Davies",
+      "Emma Pierson",
+      "Avi Feller",
+      "Sharad Goel",
+      "Aziz Huq"
+    ],
+    "categories": [
+      "cs.CY",
+      "stat.AP"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses racial disparities in algorithmic decision-making for pretrial release, highlighting social discrimination and bias issues.",
+      "inequality_type": [
+        "racial",
+        "social discrimination"
+      ],
+      "other_detail": "Focus on racial disparities in criminal justice algorithms",
+      "affected_populations": [
+        "Black defendants",
+        "White defendants"
+      ],
+      "methodology": [
+        "Algorithmic Fairness",
+        "Constrained Optimization",
+        "Data Analysis"
+      ],
+      "methodology_detail": "Analyzes fairness constraints and risk thresholds in algorithms",
+      "geographic_focus": [
+        "Broward County, Florida"
+      ],
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  }
+]

@@ -1,0 +1,183 @@
+{
+  "total_papers": 2803,
+  "statistics": {
+    "inequality_types_grouped": {
+      "unique_count": 95,
+      "total_mentions": 7352,
+      "top_10": {
+        "racial/ethnic": 1923,
+        "gender": 1857,
+        "socioeconomic": 1107,
+        "social": 419,
+        "educational": 414,
+        "health": 369,
+        "geographic": 227,
+        "age": 189,
+        "disability": 176,
+        "info/digital": 172
+      }
+    },
+    "affected_populations": {
+      "unique_count": 1429,
+      "total_mentions": 5937,
+      "top_10": {
+        "women": 704,
+        "gender groups": 311,
+        "racial minorities": 303,
+        "racial groups": 299,
+        "social groups": 213,
+        "gender minorities": 212,
+        "minority groups": 163,
+        "demographic groups": 131,
+        "men": 115,
+        "disadvantaged groups": 97
+      }
+    },
+    "methodologies": {
+      "unique_count": 716,
+      "total_mentions": 7080,
+      "top_10": {
+        "Quantitative Analysis": 1060,
+        "Experiment": 1040,
+        "Machine Learning": 568,
+        "Natural Language Processing": 500,
+        "Algorithm Auditing": 398,
+        "Dataset Creation": 395,
+        "Statistical Analysis": 229,
+        "Theoretical Analysis": 224,
+        "Deep Learning": 215,
+        "Literature Review": 207
+      }
+    },
+    "ai_relationships_grouped": {
+      "unique_count": 13,
+      "total_mentions": 2803,
+      "all_relationships": {
+        "AI as cause/amplifier": 1166,
+        "AI as measurement tool": 807,
+        "AI as solution": 493,
+        "Not AI-related": 292,
+        "Unclear": 20,
+        "AI as subject of regulation": 18,
+        "AI as fairness measurement and balancing tool": 1,
+        "AI as amplifier and subject of regulation": 1,
+        "AI as amplifier of bias and fairness mitigation": 1,
+        "AI as amplifier of bias and fairness solution": 1,
+        "AI as amplifier and mitigator of inequalities": 1,
+        "AI as amplifier and mitigator of bias": 1,
+        "AI as amplifier and mitigator": 1
+      }
+    },
+    "geographic_focuses_grouped": {
+      "unique_count": 263,
+      "total_mentions": 761,
+      "top_10": {
+        "US": 166,
+        "India": 49,
+        "Europe": 21,
+        "Africa": 20,
+        "UK": 19,
+        "China": 18,
+        "Italy": 15,
+        "New York City": 13,
+        "Germany": 12,
+        "Brazil": 12
+      }
+    },
+    "other_inequality_affected_populations": {
+      "unique_count": 10,
+      "total_mentions": 12,
+      "top_10": {
+        "protected groups": 3,
+        "discriminated individuals": 1,
+        "social groups": 1,
+        "vulnerable users": 1,
+        "racial groups": 1,
+        "gender groups": 1,
+        "demographic groups": 1,
+        "protected social groups": 1,
+        "identity groups": 1,
+        "users of AI systems": 1
+      }
+    },
+    "ai_related": {
+      "llm_classification": {
+        "ai_related_papers": 2511,
+        "ratio": 0.8958259008205494
+      },
+      "keyword_classification": {
+        "ai_related_papers": 2369,
+        "ratio": 0.8451658936853371
+      }
+    },
+    "ai_classification_comparison": {
+      "agreement_rate": 0.9136639315019622,
+      "disagreement_rate": 0.08633606849803782,
+      "confusion_matrix": {
+        "true_positive": 2319,
+        "false_positive": 50,
+        "false_negative": 192,
+        "true_negative": 242
+      },
+      "keyword_method_metrics": {
+        "precision": 0.9788940481215703,
+        "recall": 0.9235364396654719,
+        "f1_score": 0.9504098360655739
+      },
+      "disagreement_examples": {
+        "false_positive": [
+          {
+            "title": "Achieving non-discrimination in data release",
+            "ai_relationship": "Not AI-related"
+          },
+          {
+            "title": "Data Science as Political Action: Grounding Data Science in a Politics of Justice",
+            "ai_relationship": "Not AI-related"
+          },
+          {
+            "title": "Downstream Effects of Affirmative Action",
+            "ai_relationship": "Not AI-related"
+          },
+          {
+            "title": "Judging a Book by its Description : Analyzing Gender Stereotypes in the Man Bookers Prize Winning Fiction",
+            "ai_relationship": "Not AI-related"
+          },
+          {
+            "title": "\"I ain't tellin' white folks nuthin\": A quantitative exploration of the race-related problem of candour in the WPA slave narratives",
+            "ai_relationship": "Not AI-related"
+          }
+        ],
+        "false_negative": [
+          {
+            "title": "FairTest: Discovering Unwarranted Associations in Data-Driven Applications",
+            "ai_relationship": "AI as measurement tool"
+          },
+          {
+            "title": "It's a Man's Wikipedia? Assessing Gender Inequality in an Online Encyclopedia",
+            "ai_relationship": "Measurement tool"
+          },
+          {
+            "title": "Measuring Fairness in Ranked Outputs",
+            "ai_relationship": "AI as measurement tool"
+          },
+          {
+            "title": "Fair prediction with disparate impact: A study of bias in recidivism prediction instruments",
+            "ai_relationship": "AI as measurement tool"
+          },
+          {
+            "title": "Demographics and discussion influence views on algorithmic fairness",
+            "ai_relationship": "AI as subject of regulation"
+          }
+        ]
+      }
+    },
+    "geographic_focus_presence": {
+      "papers_with_geographic_focus": 582,
+      "ratio": 0.20763467713164466
+    },
+    "confidence": {
+      "average_value": 0.8955404923296469,
+      "papers_with_confidence_value": 2803
+    }
+  }
+}

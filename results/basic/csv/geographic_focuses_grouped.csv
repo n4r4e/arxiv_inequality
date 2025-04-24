@@ -1,0 +1,264 @@
+Item,Frequency,Percentage(%)
+US,166,21.81
+India,49,6.44
+Europe,21,2.76
+Africa,20,2.63
+UK,19,2.50
+China,18,2.37
+Italy,15,1.97
+New York City,13,1.71
+Germany,12,1.58
+Brazil,12,1.58
+Chicago,12,1.58
+Netherlands,10,1.31
+Bangladesh,10,1.31
+Global,9,1.18
+North America,8,1.05
+France,8,1.05
+Canada,7,0.92
+Spain,7,0.92
+Latin America,5,0.66
+New Zealand,5,0.66
+Portugal,4,0.53
+Australia,4,0.53
+Japan,4,0.53
+Los Angeles,4,0.53
+English,4,0.53
+Chinese,4,0.53
+Global South,4,0.53
+Montreal,4,0.53
+California,4,0.53
+Nigeria,3,0.39
+Barcelona,3,0.39
+Austria,3,0.39
+Hungary,3,0.39
+English-speaking countries,3,0.39
+Russia,3,0.39
+multiple countries,3,0.39
+low- and middle-income countries,3,0.39
+Turkish,3,0.39
+Greek,3,0.39
+developing countries,3,0.39
+Chile,3,0.39
+Venezuela,3,0.39
+Mexico,3,0.39
+English-speaking regions,3,0.39
+Korea,3,0.39
+Indonesia,3,0.39
+Philippines,3,0.39
+"Pittsburgh, PA",2,0.26
+Philadelphia,2,0.26
+Singapore,2,0.26
+Ireland,2,0.26
+North Carolina,2,0.26
+Colombia,2,0.26
+Florida,2,0.26
+Poland,2,0.26
+Pennsylvania,2,0.26
+Thailand,2,0.26
+German,2,0.26
+Spanish,2,0.26
+Argentina,2,0.26
+English-speaking,2,0.26
+Persian,2,0.26
+Switzerland,2,0.26
+Turkey,2,0.26
+Finland,2,0.26
+Sweden,2,0.26
+South America,2,0.26
+South Korea,2,0.26
+South Asia,2,0.26
+Thai,2,0.26
+Vietnam,2,0.26
+French,2,0.26
+Global North,2,0.26
+West Bengal,2,0.26
+multiple regions,2,0.26
+Spanish-speaking countries,2,0.26
+U.S. metropolitan areas,1,0.13
+"Athens, Greece",1,0.13
+Madrid,1,0.13
+Brussels,1,0.13
+U.S. colleges,1,0.13
+U.S. high schools,1,0.13
+"Broward County, Florida",1,0.13
+English Wikipedia corpus,1,0.13
+census data,1,0.13
+five large cities,1,0.13
+developing world,1,0.13
+large European city,1,0.13
+"Deep South, USA",1,0.13
+Wikidata,1,0.13
+Freebase,1,0.13
+English text,1,0.13
+large city of the global south,1,0.13
+83 countries,1,0.13
+Northern Europe,1,0.13
+Asia,1,0.13
+Twitter data,1,0.13
+unspecified regions,1,0.13
+Jamaica,1,0.13
+Instagram,1,0.13
+Facebook,1,0.13
+Oregon,1,0.13
+Twitter (US-based),1,0.13
+OECD country,1,0.13
+"Liverpool, UK",1,0.13
+Multiple countries,1,0.13
+6 other countries,1,0.13
+Baton Rouge,1,0.13
+Kentucky,1,0.13
+MIMIC-III hospital dataset (US),1,0.13
+Arabic regions,1,0.13
+East Asia,1,0.13
+Minnesota,1,0.13
+Multilingual regions,1,0.13
+unspecified countries,1,0.13
+"Cook County, Illinois",1,0.13
+"Georgia, USA",1,0.13
+Korean,1,0.13
+Arabic,1,0.13
+Great Britain,1,0.13
+Spanish-speaking regions,1,0.13
+Western,1,0.13
+Non-Western,1,0.13
+English-Italian,1,0.13
+English-French,1,0.13
+Morocco,1,0.13
+West Africa,1,0.13
+"unspecified, likely global or US-based",1,0.13
+"Houston, Texas",1,0.13
+Twitter data (unspecified regions),1,0.13
+unspecified hospital dataset,1,0.13
+Global comparison with Hollywood,1,0.13
+Medellín,1,0.13
+Bogotá,1,0.13
+São Paulo,1,0.13
+Low-Income Countries,1,0.13
+"Bogotá, Colombia",1,0.13
+7 cultures,1,0.13
+"Harris County, Texas",1,0.13
+MIMIC-III dataset (US-based hospital data),1,0.13
+"London, England",1,0.13
+MIMIC-III (US),1,0.13
+another academic hospital,1,0.13
+multiple languages,1,0.13
+Replay Attack database,1,0.13
+SiW database,1,0.13
+RFW database,1,0.13
+Twitter (global platform),1,0.13
+"Georgia, United States",1,0.13
+rural Africa,1,0.13
+Sub-Saharan Africa,1,0.13
+Toronto,1,0.13
+Hamilton,1,0.13
+GTHA,1,0.13
+Caucasian,1,0.13
+African-American,1,0.13
+Spanish-speaking,1,0.13
+Arabic-speaking regions,1,0.13
+54 cities,1,0.13
+Benelux,1,0.13
+LinkedIn platform (global),1,0.13
+Sao Paulo metropolitan region,1,0.13
+Persia,1,0.13
+"Wisconsin, USA",1,0.13
+Dominican Republic,1,0.13
+Oceania,1,0.13
+Virginia,1,0.13
+Bogota,1,0.13
+Jakarta,1,0.13
+London,1,0.13
+New York,1,0.13
+Harvard (implying US),1,0.13
+Santiago de Chile,1,0.13
+Racial Faces in-the-Wild (RFW) benchmark,1,0.13
+Twitter,1,0.13
+Reddit,1,0.13
+International,1,0.13
+Basque Country,1,0.13
+Harvard (USA),1,0.13
+Iceland,1,0.13
+English/Spanish,1,0.13
+English/Italian,1,0.13
+English/French,1,0.13
+Caribbean,1,0.13
+Israel,1,0.13
+Bengali,1,0.13
+Farsi,1,0.13
+Malay,1,0.13
+Tagalog,1,0.13
+Western countries,1,0.13
+ten countries,1,0.13
+multiple cities,1,0.13
+Wisconsin,1,0.13
+Czech Republic,1,0.13
+Slovakia,1,0.13
+"Charlotte, NC",1,0.13
+eight English-speaking countries,1,0.13
+"Chicago, IL",1,0.13
+"Austin, TX",1,0.13
+PubFig dataset (likely global or unspecified),1,0.13
+Texas,1,0.13
+developed countries,1,0.13
+Delaware River Basin,1,0.13
+Low and Middle-Income Countries,1,0.13
+"Boston, USA",1,0.13
+urban research university in the US,1,0.13
+Ethiopia,1,0.13
+Dutch,1,0.13
+Wales,1,0.13
+Madagascar,1,0.13
+low-income countries,1,0.13
+lower-middle-income countries,1,0.13
+COMPAS dataset,1,0.13
+New Adult dataset,1,0.13
+other regions,1,0.13
+unspecified,1,0.13
+Twitter users globally,1,0.13
+Hong Kong,1,0.13
+African countries,1,0.13
+"Henan, China",1,0.13
+worldwide,1,0.13
+Bangla-speaking regions,1,0.13
+outside US,1,0.13
+African-American English dialect,1,0.13
+Meta platform (global),1,0.13
+England & Wales,1,0.13
+US metropolitan areas,1,0.13
+Oklahoma,1,0.13
+University of Pennsylvania,1,0.13
+MIMIC-III database (US),1,0.13
+Taiwan,1,0.13
+Cincinnati,1,0.13
+Portuguese,1,0.13
+large public school district,1,0.13
+Swedish,1,0.13
+MIMIC-CXR dataset (US),1,0.13
+"Allegheny County, PA",1,0.13
+regional area,1,0.13
+marine regions,1,0.13
+Tennessee,1,0.13
+New Orleans,1,0.13
+Hungarian,1,0.13
+Finnish,1,0.13
+Paris,1,0.13
+urban areas in the US,1,0.13
+7 countries,1,0.13
+Egypt,1,0.13
+Arab countries,1,0.13
+Sri Lanka,1,0.13
+Russian,1,0.13
+Indonesian,1,0.13
+Guatemala,1,0.13
+Asian nations,1,0.13
+CelebA,1,0.13
+UTK-Face datasets,1,0.13
+Santa Clara County,1,0.13
+unspecified/clinical datasets,1,0.13
+England,1,0.13
+Vienna,1,0.13
+East Africa,1,0.13
+North Africa,1,0.13
+Papua New Guinea,1,0.13
+Tel Aviv,1,0.13

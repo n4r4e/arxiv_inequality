@@ -1,0 +1,488 @@
+[
+  {
+    "id": "http://arxiv.org/abs/1512.05671v1",
+    "title": "Characterizing the Demographics Behind the #BlackLivesMatter Movement",
+    "year": 2015,
+    "authors": [
+      "Alexandra Olteanu",
+      "Ingmar Weber",
+      "Daniel Gatica-Perez"
+    ],
+    "categories": [
+      "cs.SI",
+      "K.4.2; H.3.5"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines racial engagement disparities on social media related to the #BlackLivesMatter movement, addressing racial inequality and representation.",
+      "inequality_type": [
+        "racial",
+        "ethnic"
+      ],
+      "other_detail": "Focus on racial demographics in social media activism",
+      "affected_populations": [
+        "African-Americans",
+        "other racial groups"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Dataset Creation"
+      ],
+      "methodology_detail": "Analyzing Twitter data and user demographics",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1511.00148v1",
+    "title": "A survey on measuring indirect discrimination in machine learning",
+    "year": 2015,
+    "authors": [
+      "Indre Zliobaite"
+    ],
+    "categories": [
+      "cs.CY",
+      "stat.AP"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on measuring discrimination in predictive models, addressing social bias and fairness issues related to groups distinguished by social categories.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "socioeconomic",
+        "disability"
+      ],
+      "other_detail": "Focuses on fairness in AI decision-making processes",
+      "affected_populations": [
+        "social groups",
+        "discriminated individuals"
+      ],
+      "methodology": [
+        "Survey",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analyzes discrimination measures and procedures",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1510.02377v3",
+    "title": "FairTest: Discovering Unwarranted Associations in Data-Driven Applications",
+    "year": 2015,
+    "authors": [
+      "Florian Tramèr",
+      "Vaggelis Atlidakis",
+      "Roxana Geambasu",
+      "Daniel Hsu",
+      "Jean-Pierre Hubaux",
+      "Mathias Humbert",
+      "Ari Juels",
+      "Huang Lin"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses algorithmic fairness, bias, and discriminatory effects in data-driven applications affecting social groups.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "health",
+        "age"
+      ],
+      "other_detail": "Focus on unfair treatment and biases in AI systems",
+      "affected_populations": [
+        "older populations",
+        "racial groups"
+      ],
+      "methodology": [
+        "Algorithm Auditing",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Fairness metrics and subgroup analysis",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1510.00552v3",
+    "title": "Exposing the Probabilistic Causal Structure of Discrimination",
+    "year": 2015,
+    "authors": [
+      "Francesco Bonchi",
+      "Sara Hajian",
+      "Bud Mishra",
+      "Daniele Ramazzotti"
+    ],
+    "categories": [
+      "cs.DB",
+      "cs.AI"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper focuses on discrimination detection related to protected groups, addressing social bias and inequality issues.",
+      "inequality_type": [
+        "racial",
+        "ethnic",
+        "gender",
+        "disability"
+      ],
+      "other_detail": "causality in discrimination detection",
+      "affected_populations": [
+        "ethnic minorities",
+        "protected groups"
+      ],
+      "methodology": [
+        "Causal Analysis",
+        "Bayesian Networks",
+        "Data Mining"
+      ],
+      "methodology_detail": "Probabilistic causation and causal structure extraction",
+      "geographic_focus": null,
+      "ai_relationship": "AI as measurement tool",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1509.03678v3",
+    "title": "The Spatial Proximity and Connectivity (SPC) Method for Measuring and Analyzing Residential Segregation",
+    "year": 2015,
+    "authors": [
+      "Elizabeth Roberto"
+    ],
+    "categories": [
+      "physics.soc-ph",
+      "cs.SI",
+      "stat.ME"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines residential segregation, a key aspect of social inequality related to race and geography.",
+      "inequality_type": [
+        "racial",
+        "geographic"
+      ],
+      "other_detail": "Focus on physical barriers affecting segregation patterns",
+      "affected_populations": [
+        "racial groups"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Includes empirical analysis of segregation patterns",
+      "geographic_focus": [
+        "Pittsburgh, PA"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1508.06878v1",
+    "title": "Sex differences in social focus across the lifecycle in humans",
+    "year": 2015,
+    "authors": [
+      "Kunal Bhattacharya",
+      "Asim Ghosh",
+      "Daniel Monsivais",
+      "Robin I. M. Dunbar",
+      "Kimmo Kaski"
+    ],
+    "categories": [
+      "physics.soc-ph",
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The study examines gender differences in social effort and reproductive investments, highlighting social inequalities related to gender and age.",
+      "inequality_type": [
+        "gender",
+        "age",
+        "socioeconomic"
+      ],
+      "other_detail": "Focus on reproductive investment and social effort",
+      "affected_populations": [
+        "males",
+        "females",
+        "adults"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Analysis of mobile phone communication data",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1508.01167v3",
+    "title": "The Divergence Index: A Decomposable Measure of Segregation and Inequality",
+    "year": 2015,
+    "authors": [
+      "Elizabeth Roberto"
+    ],
+    "categories": [
+      "stat.ME",
+      "cs.IT",
+      "math.IT",
+      "physics.soc-ph"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper analyzes segregation and diversity, which relate to social inequalities like racial and geographic disparities.",
+      "inequality_type": [
+        "racial",
+        "geographic"
+      ],
+      "other_detail": "Focuses on spatial and social segregation measures",
+      "affected_populations": [
+        "urban residents",
+        "suburban residents"
+      ],
+      "methodology": [
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Decomposition analysis of segregation measures over time",
+      "geographic_focus": [
+        "U.S. metropolitan areas"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1508.00883v1",
+    "title": "Equality of Participation Online Versus Face to Face: Condensed Analysis of the Community Forum Deliberative Methods Demonstration",
+    "year": 2015,
+    "authors": [
+      "Eric Showers",
+      "Nathan Tindall",
+      "Todd Davies"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.HC",
+      "H.1.2; H.3.1; H.4.3; H.5.3; J.1; K.4.1"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines participation disparities related to gender, race, and other social groups in online versus face-to-face settings, addressing social inequality issues.",
+      "inequality_type": [
+        "gender",
+        "racial",
+        "educational"
+      ],
+      "other_detail": "Focus on participation equality in deliberative environments",
+      "affected_populations": [
+        "women",
+        "Black participants",
+        "white participants"
+      ],
+      "methodology": [
+        "Experiment",
+        "Quantitative Analysis"
+      ],
+      "methodology_detail": "Comparative analysis of participation modes",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1507.05259v5",
+    "title": "Fairness Constraints: Mechanisms for Fair Classification",
+    "year": 2015,
+    "authors": [
+      "Muhammad Bilal Zafar",
+      "Isabel Valera",
+      "Manuel Gomez Rodriguez",
+      "Krishna P. Gummadi"
+    ],
+    "categories": [
+      "stat.ML",
+      "cs.LG"
+    ],
+    "is_ai_related_original": true,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper addresses fairness in algorithmic decision-making, focusing on outcomes affecting groups sharing sensitive attributes like race and gender.",
+      "inequality_type": [
+        "racial",
+        "gender",
+        "social fairness"
+      ],
+      "other_detail": "Focus on algorithmic fairness and decision boundary measures",
+      "affected_populations": [
+        "racial groups",
+        "gender groups"
+      ],
+      "methodology": [
+        "Machine Learning",
+        "Algorithm Auditing",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Fair classifier design and real-world data evaluation",
+      "geographic_focus": null,
+      "ai_relationship": "AI as amplifier",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1504.04644v1",
+    "title": "Gender Issues & Information Communication Technology for Development (ICT4D): Prospects and Challenges for Women in Nigeria",
+    "year": 2015,
+    "authors": [
+      "Kwetishe Joro Danjuma",
+      "Bayo Mohammed Onimode",
+      "Ochedikwu Jonah Onche"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender disparities in ICT access, policy inclusion, and empowerment in Nigeria, addressing social gender inequality.",
+      "inequality_type": [
+        "gender",
+        "informational",
+        "digital",
+        "socioeconomic"
+      ],
+      "other_detail": "Focus on gender digital divide and policy inclusion",
+      "affected_populations": [
+        "women",
+        "girls"
+      ],
+      "methodology": [
+        "Literature Review",
+        "Survey",
+        "Statistical Analysis"
+      ],
+      "methodology_detail": "Uses questionnaires and ANOVA analysis",
+      "geographic_focus": [
+        "Nigeria"
+      ],
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1502.03086v1",
+    "title": "Gender Gap Through Time and Space: A Journey Through Wikipedia Biographies and the \"WIGI\" Index",
+    "year": 2015,
+    "authors": [
+      "Maximilian Klein",
+      "Piotr Konieczny"
+    ],
+    "categories": [
+      "cs.CY"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper analyzes gender disparities using Wikipedia biographies, addressing gender inequality over time and across cultures.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "None",
+      "affected_populations": [
+        "women",
+        "other genders"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Data Mining"
+      ],
+      "methodology_detail": "Using Wikipedia metadata and cultural clustering",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1502.02341v2",
+    "title": "First Women, Second Sex: Gender Bias in Wikipedia",
+    "year": 2015,
+    "authors": [
+      "Eduardo Graells-Garrido",
+      "Mounia Lalmas",
+      "Filippo Menczer"
+    ],
+    "categories": [
+      "cs.SI",
+      "H.3.4"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender bias in Wikipedia, addressing gender inequality in representation and characterization, which relates directly to social discrimination based on gender.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focuses on gender bias in content and characterization",
+      "affected_populations": [
+        "women",
+        "female biographies"
+      ],
+      "methodology": [
+        "Quantitative Analysis",
+        "Qualitative Study"
+      ],
+      "methodology_detail": "Comparative analysis of biographies in language, metadata, network",
+      "geographic_focus": null,
+      "ai_relationship": "Not AI-related",
+      "confidence": 0.9
+    }
+  },
+  {
+    "id": "http://arxiv.org/abs/1501.06307v2",
+    "title": "It's a Man's Wikipedia? Assessing Gender Inequality in an Online Encyclopedia",
+    "year": 2015,
+    "authors": [
+      "Claudia Wagner",
+      "David Garcia",
+      "Mohsen Jadidi",
+      "Markus Strohmaier"
+    ],
+    "categories": [
+      "cs.CY",
+      "cs.SI"
+    ],
+    "is_ai_related_original": false,
+    "analysis": {
+      "is_social_inequality": true,
+      "reason": "The paper examines gender bias in Wikipedia, addressing gender inequality and bias in online content.",
+      "inequality_type": [
+        "gender"
+      ],
+      "other_detail": "Focuses on gender bias in online encyclopedia content",
+      "affected_populations": [
+        "women"
+      ],
+      "methodology": [
+        "Computational Analysis",
+        "Natural Language Processing"
+      ],
+      "methodology_detail": "Assessing gender bias across multiple dimensions",
+      "geographic_focus": null,
+      "ai_relationship": "Measurement tool",
+      "confidence": 0.9
+    }
+  }
+]

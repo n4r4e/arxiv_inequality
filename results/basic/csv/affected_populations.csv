@@ -1,0 +1,1430 @@
+Item,Frequency,Percentage(%)
+women,704,11.86
+gender groups,311,5.24
+racial minorities,303,5.10
+racial groups,299,5.04
+social groups,213,3.59
+gender minorities,212,3.57
+minority groups,163,2.75
+demographic groups,131,2.21
+men,115,1.94
+disadvantaged groups,97,1.63
+patients,74,1.25
+social minorities,69,1.16
+minorities,60,1.01
+marginalized groups,60,1.01
+students,58,0.98
+elderly,57,0.96
+ethnic groups,54,0.91
+ethnic minorities,50,0.84
+protected groups,50,0.84
+age groups,44,0.74
+underrepresented groups,37,0.62
+religious groups,36,0.61
+disadvantaged communities,30,0.51
+marginalized communities,29,0.49
+urban residents,27,0.45
+low-income groups,27,0.45
+job applicants,24,0.40
+discriminated individuals,20,0.34
+females,20,0.34
+disabled individuals,19,0.32
+users,17,0.29
+socioeconomic groups,17,0.29
+older adults,17,0.29
+female,15,0.25
+males,14,0.24
+discriminated groups,14,0.24
+vulnerable groups,14,0.24
+occupational groups,14,0.24
+people with disabilities,14,0.24
+criminal defendants,13,0.22
+individuals,13,0.22
+vulnerable populations,12,0.20
+non-binary individuals,12,0.20
+underserved groups,12,0.20
+communities,11,0.19
+socioeconomic classes,11,0.19
+African Americans,11,0.19
+nationalities,11,0.19
+children,11,0.19
+workers,10,0.17
+male,10,0.17
+job seekers,10,0.17
+Black communities,10,0.17
+Black individuals,10,0.17
+female characters,9,0.15
+underserved communities,9,0.15
+demographic subgroups,9,0.15
+disadvantaged populations,9,0.15
+job candidates,9,0.15
+unprivileged groups,9,0.15
+minority communities,9,0.15
+healthcare patients,9,0.15
+underprivileged groups,9,0.15
+disadvantaged individuals,8,0.13
+low-income communities,8,0.13
+rural residents,8,0.13
+female researchers,8,0.13
+discriminated minorities,8,0.13
+non-native speakers,8,0.13
+female students,8,0.13
+general public,8,0.13
+female speakers,8,0.13
+minority populations,8,0.13
+discriminated communities,8,0.13
+LGBTQ+,8,0.13
+Women,8,0.13
+girls,7,0.12
+low-income residents,7,0.12
+social media users,7,0.12
+Black,7,0.12
+loan applicants,7,0.12
+political groups,7,0.12
+low-income individuals,7,0.12
+Muslims,7,0.12
+low-income users,7,0.12
+regional populations,7,0.12
+people of color,7,0.12
+users of AI systems,7,0.12
+female patients,7,0.12
+urban poor,6,0.10
+female authors,6,0.10
+male characters,6,0.10
+protected classes,6,0.10
+defendants,6,0.10
+decision subjects,6,0.10
+health patients,6,0.10
+applicants,6,0.10
+credit applicants,6,0.10
+medical patients,6,0.10
+under-represented groups,6,0.10
+religious communities,6,0.10
+disabled,6,0.10
+cultural groups,6,0.10
+White,6,0.10
+regional communities,6,0.10
+societal minorities,6,0.10
+cultural communities,6,0.10
+Black Americans,6,0.10
+identity groups,6,0.10
+LGBTQ+ individuals,6,0.10
+African-Americans,5,0.08
+male users,5,0.08
+income groups,5,0.08
+drivers,5,0.08
+geographic communities,5,0.08
+disabled people,5,0.08
+society,5,0.08
+rural communities,5,0.08
+Twitter users,5,0.08
+Black women,5,0.08
+patients by gender,5,0.08
+families,5,0.08
+Black people,5,0.08
+non-binary,5,0.08
+gender,5,0.08
+female workers,5,0.08
+subpopulations,5,0.08
+non-native English speakers,5,0.08
+majority groups,5,0.08
+minority racial groups,5,0.08
+disadvantaged,5,0.08
+sensitive groups,5,0.08
+male students,5,0.08
+Black patients,5,0.08
+Indigenous communities,5,0.08
+White Americans,5,0.08
+users by gender,5,0.08
+Asian,5,0.08
+language communities,5,0.08
+adults,4,0.07
+women scientists,4,0.07
+neighborhoods,4,0.07
+African-American English speakers,4,0.07
+female scientists,4,0.07
+general population,4,0.07
+male researchers,4,0.07
+ marginalized groups,4,0.07
+women researchers,4,0.07
+disadvantaged group,4,0.07
+urban communities,4,0.07
+trans people,4,0.07
+voters,4,0.07
+female academics,4,0.07
+refugees,4,0.07
+mental health patients,4,0.07
+dark-skinned individuals,4,0.07
+African American English speakers,4,0.07
+language users,4,0.07
+female politicians,4,0.07
+disadvantaged students,4,0.07
+patients by race,4,0.07
+Hindi speakers,4,0.07
+English speakers,4,0.07
+caste groups,4,0.07
+women in tech,4,0.07
+underrepresented students,4,0.07
+rural populations,4,0.07
+queer communities,4,0.07
+African communities,4,0.07
+low-income households,4,0.07
+darker skin individuals,4,0.07
+regional groups,4,0.07
+White individuals,4,0.07
+educational groups,4,0.07
+users by age,4,0.07
+privileged groups,4,0.07
+LGBTQ+ community,4,0.07
+suburban residents,3,0.05
+poor,3,0.05
+Caucasians,3,0.05
+developing countries,3,0.05
+female users,3,0.05
+nationality groups,3,0.05
+demographic minorities,3,0.05
+socially marginalized,3,0.05
+individuals with sensitive attributes,3,0.05
+minority students,3,0.05
+social network users,3,0.05
+older individuals,3,0.05
+societal groups,3,0.05
+Black men,3,0.05
+employers,3,0.05
+local communities,3,0.05
+health disparities,3,0.05
+healthcare groups,3,0.05
+subgroups,3,0.05
+majorities,3,0.05
+asylum seekers,3,0.05
+African-American,3,0.05
+AAVE speakers,3,0.05
+female candidates,3,0.05
+data workers,3,0.05
+vulnerable communities,3,0.05
+race,3,0.05
+socially disadvantaged groups,3,0.05
+healthcare providers,3,0.05
+minority patients,3,0.05
+underserved populations,3,0.05
+non-English speakers,3,0.05
+queer people,3,0.05
+Asian communities,3,0.05
+ marginalized communities,3,0.05
+gig workers,3,0.05
+darker skin tones,3,0.05
+geographic regions,3,0.05
+White patients,3,0.05
+intersectional groups,3,0.05
+female applicants,3,0.05
+skin tone groups,3,0.05
+general society,3,0.05
+social classes,3,0.05
+medical groups,3,0.05
+darker-skinned individuals,3,0.05
+targeted groups,3,0.05
+sexual minorities,3,0.05
+LGBTQIA+,3,0.05
+demographics,3,0.05
+language speakers,3,0.05
+linguistic minorities,3,0.05
+donors,3,0.05
+diverse demographic groups,3,0.05
+medical professionals,3,0.05
+disadvantaged patients,3,0.05
+transgender,3,0.05
+educational minorities,3,0.05
+geographic populations,3,0.05
+male patients,3,0.05
+students with disabilities,3,0.05
+other racial groups,2,0.03
+older populations,2,0.03
+Black participants,2,0.03
+female streamers,2,0.03
+women in academia,2,0.03
+online users,2,0.03
+White users,2,0.03
+Black users,2,0.03
+consumers,2,0.03
+male scientists,2,0.03
+criminal justice populations,2,0.03
+pedestrians,2,0.03
+male academics,2,0.03
+advantaged group,2,0.03
+schools,2,0.03
+younger people,2,0.03
+female teenagers,2,0.03
+boys,2,0.03
+parents,2,0.03
+college students,2,0.03
+East Asian,2,0.03
+Caucasian,2,0.03
+women in politics,2,0.03
+less popular artists,2,0.03
+unbanked individuals,2,0.03
+intersectional minorities,2,0.03
+non-protected groups,2,0.03
+non-white users,2,0.03
+newborns,2,0.03
+low-income countries,2,0.03
+diverse social groups,2,0.03
+borrowers,2,0.03
+African-American users,2,0.03
+cyberbullying victims,2,0.03
+speech users,2,0.03
+judges,2,0.03
+oppressed communities,2,0.03
+minority borrowers,2,0.03
+patients by ethnicity,2,0.03
+elderly patients,2,0.03
+individuals impacted by bias,2,0.03
+candidates,2,0.03
+targeted communities,2,0.03
+minority candidates,2,0.03
+protected attribute groups,2,0.03
+protected communities,2,0.03
+housing seekers,2,0.03
+female artists,2,0.03
+music consumers,2,0.03
+women developers,2,0.03
+LGBTQ,2,0.03
+educators,2,0.03
+race groups,2,0.03
+African American females,2,0.03
+market participants,2,0.03
+women in science,2,0.03
+Black Women,2,0.03
+global learners,2,0.03
+senior citizens,2,0.03
+professionals,2,0.03
+group1,2,0.03
+group2,2,0.03
+protected demographic groups,2,0.03
+population groups,2,0.03
+general users,2,0.03
+older users,2,0.03
+end users,2,0.03
+minoritized groups,2,0.03
+low socioeconomic status,2,0.03
+racial/ethnic minorities,2,0.03
+long-term unemployed,2,0.03
+non-white groups,2,0.03
+marginalized racial groups,2,0.03
+people with darker skin,2,0.03
+non-white individuals,2,0.03
+credit seekers,2,0.03
+Asian Americans,2,0.03
+low-resource language speakers,2,0.03
+caregivers,2,0.03
+diverse communities,2,0.03
+first-generation students,2,0.03
+jurors,2,0.03
+Black females,2,0.03
+geographic groups,2,0.03
+ethnicity groups,2,0.03
+low-income families,2,0.03
+underrepresented subgroups,2,0.03
+protected individuals,2,0.03
+Black or African American,2,0.03
+women in computing,2,0.03
+less prestigious institutions,2,0.03
+users with protected attributes,2,0.03
+older,2,0.03
+less educated,2,0.03
+poor communities,2,0.03
+users with sensitive attributes,2,0.03
+female reviewers,2,0.03
+diabetic patients,2,0.03
+persons with disabilities,2,0.03
+male scholars,2,0.03
+teachers,2,0.03
+countries,2,0.03
+underrepresented demographics,2,0.03
+justice system users,2,0.03
+social communities,2,0.03
+accented speakers,2,0.03
+White Females,2,0.03
+BIPOC,2,0.03
+ND students,2,0.03
+homeless households,2,0.03
+sociodemographic groups,2,0.03
+low-income regions,2,0.03
+African American patients,2,0.03
+content consumers,2,0.03
+population,2,0.03
+data subjects,2,0.03
+male applicants,2,0.03
+riders,2,0.03
+users of LLMs,2,0.03
+wheelchair users,2,0.03
+young people,2,0.03
+indigenous groups,2,0.03
+households,2,0.03
+voice users,2,0.03
+transplant patients,2,0.03
+unemployed,2,0.03
+queer individuals,2,0.03
+lower-income groups,2,0.03
+national groups,2,0.03
+patients by sex,2,0.03
+marginalized identities,2,0.03
+minoritized communities,2,0.03
+young adults,2,0.03
+underprivileged patients,2,0.03
+women in STEM,2,0.03
+non-binary people,2,0.03
+minority users,2,0.03
+younger individuals,2,0.03
+Black students,2,0.03
+White students,2,0.03
+Hispanic applicants,2,0.03
+Jewish community,2,0.03
+mobile users,2,0.03
+African populations,2,0.03
+global health communities,2,0.03
+underrepresented patients,2,0.03
+Hindus,2,0.03
+disadvantaged neighborhoods,2,0.03
+global populations,2,0.03
+homeowners,2,0.03
+protected societal groups,2,0.03
+individuals with protected attributes,2,0.03
+underrepresented cultural groups,2,0.03
+diverse demographics,2,0.03
+diverse skin tones,2,0.03
+specific social groups,2,0.03
+Hispanic,2,0.03
+target groups,2,0.03
+sign language users,2,0.03
+Bangla speakers,2,0.03
+educational users,2,0.03
+Hindu community,2,0.03
+underrepresented communities,2,0.03
+individuals with physical traits,2,0.03
+content creators,2,0.03
+poor people,2,0.03
+Africa,2,0.03
+local residents,2,0.03
+white participants,1,0.02
+other genders,1,0.02
+female biographies,1,0.02
+wealthy,1,0.02
+male streamers,1,0.02
+viewers,1,0.02
+male authors,1,0.02
+men scientists,1,0.02
+female athletes,1,0.02
+male athletes,1,0.02
+high school students,1,0.02
+university students,1,0.02
+persons with protected characteristics,1,0.02
+biography subjects,1,0.02
+criminal offenders,1,0.02
+potential employees,1,0.02
+ethnically diverse groups,1,0.02
+Asian users,1,0.02
+aging adults,1,0.02
+veterans,1,0.02
+Black defendants,1,0.02
+White defendants,1,0.02
+diverse city residents,1,0.02
+society at large,1,0.02
+criminal justice system,1,0.02
+women academics,1,0.02
+female laureates,1,0.02
+low-paid workers,1,0.02
+US populations,1,0.02
+users of dating platforms,1,0.02
+district residents,1,0.02
+community residents,1,0.02
+student groups,1,0.02
+employer groups,1,0.02
+women authors,1,0.02
+book consumers,1,0.02
+black inmates,1,0.02
+criminal justice population,1,0.02
+financially disadvantaged groups,1,0.02
+general populations,1,0.02
+environmental communities,1,0.02
+populations,1,0.02
+minority subgroups,1,0.02
+black women,1,0.02
+health populations,1,0.02
+criminal justice individuals,1,0.02
+teenagers,1,0.02
+girls in STEM,1,0.02
+low-ranked subjects,1,0.02
+former slaves,1,0.02
+LGBT people,1,0.02
+Uber riders,1,0.02
+health plans,1,0.02
+unwanted groups,1,0.02
+congestion users,1,0.02
+urban commuters,1,0.02
+niche market groups,1,0.02
+non-Caucasians,1,0.02
+African American defendants,1,0.02
+diverse artist groups,1,0.02
+protected group,1,0.02
+unprotected group,1,0.02
+credit-invisible groups,1,0.02
+cis people,1,0.02
+subgroups by sensitive variables,1,0.02
+female names,1,0.02
+Brazilian population,1,0.02
+city inhabitants,1,0.02
+criminal justice,1,0.02
+women organizers,1,0.02
+non-White racial groups,1,0.02
+dark skinned women,1,0.02
+lower socioeconomic classes,1,0.02
+peripheral urban populations,1,0.02
+birth mothers,1,0.02
+patients with disparities,1,0.02
+individuals subject to bias,1,0.02
+students from distressed areas,1,0.02
+MOOC registrants,1,0.02
+individuals in protected groups,1,0.02
+Medicaid applicants,1,0.02
+middle class,1,0.02
+working class,1,0.02
+ marginalized individuals,1,0.02
+women in IT,1,0.02
+gender-diverse teams,1,0.02
+young men,1,0.02
+dark-skinned drivers,1,0.02
+African drivers,1,0.02
+African-American individuals,1,0.02
+population segments,1,0.02
+homeless youth,1,0.02
+pedestrians with different skin tones,1,0.02
+female consumers,1,0.02
+male consumers,1,0.02
+undercompensated enrollees,1,0.02
+health insurers,1,0.02
+French population,1,0.02
+rural workers,1,0.02
+urban workers,1,0.02
+business owners from specific regions,1,0.02
+housing residents,1,0.02
+female arrestees,1,0.02
+male arrestees,1,0.02
+women in physics,1,0.02
+female sex workers,1,0.02
+White women,1,0.02
+educational participants,1,0.02
+formerly incarcerated individuals,1,0.02
+clinical groups,1,0.02
+southern Italy,1,0.02
+Black Brazilians,1,0.02
+female professors,1,0.02
+male professors,1,0.02
+reviewers,1,0.02
+subgroups of protected groups,1,0.02
+non-elite universities,1,0.02
+mid-tier universities,1,0.02
+women physicists,1,0.02
+individuals affected by bias,1,0.02
+patients in need,1,0.02
+individuals facing unfavorable classifications,1,0.02
+institutional authors,1,0.02
+non-traditional backgrounds,1,0.02
+applicants from disadvantaged groups,1,0.02
+minority workers,1,0.02
+users of dialogue systems,1,0.02
+unseen classes,1,0.02
+Latino,1,0.02
+Middle Eastern,1,0.02
+economically poor communities,1,0.02
+individuals with different skin/hair tones,1,0.02
+outliers,1,0.02
+litigants,1,0.02
+legal defendants,1,0.02
+vulnerable,1,0.02
+non-vulnerable,1,0.02
+users by age and gender,1,0.02
+vulnerable social groups,1,0.02
+White English speakers,1,0.02
+British MPs,1,0.02
+social groups discussed,1,0.02
+lower caste,1,0.02
+upper caste,1,0.02
+lower social class,1,0.02
+higher social class,1,0.02
+minority neighborhoods,1,0.02
+underserved regions,1,0.02
+unarmed blacks,1,0.02
+unarmed whites,1,0.02
+people in clusters,1,0.02
+administrators,1,0.02
+deprived communities,1,0.02
+vulnerable peoples,1,0.02
+interview candidates,1,0.02
+AI community members,1,0.02
+users of rankings,1,0.02
+gendered language speakers,1,0.02
+non-white neighborhoods,1,0.02
+younger residents,1,0.02
+higher-education areas,1,0.02
+minority providers,1,0.02
+at-risk teens,1,0.02
+Chicago communities,1,0.02
+distressed areas,1,0.02
+Mexican American females,1,0.02
+persons living with HIV,1,0.02
+low-wage workers,1,0.02
+residents of Baton Rouge,1,0.02
+recommendation users,1,0.02
+patients by demographics,1,0.02
+historically biased communities,1,0.02
+non-standard language speakers,1,0.02
+darker-skin individuals,1,0.02
+lighter-skin individuals,1,0.02
+low-income students,1,0.02
+municipalities with higher inequality,1,0.02
+future generations,1,0.02
+marginalized artists,1,0.02
+Edoid language speakers,1,0.02
+indigenous Nigerian communities,1,0.02
+complex classes,1,0.02
+vulnerable users,1,0.02
+under-represented ethnic groups,1,0.02
+patients by age,1,0.02
+patients by insurance,1,0.02
+workers from different classes,1,0.02
+non-Caucasian groups,1,0.02
+poorest adults,1,0.02
+under-served communities,1,0.02
+marginalized populations,1,0.02
+Black workers,1,0.02
+Asian workers,1,0.02
+female neuroscientists,1,0.02
+male neuroscientists,1,0.02
+social factions,1,0.02
+low-wealth individuals,1,0.02
+high-wealth individuals,1,0.02
+citizens,1,0.02
+minoritized students,1,0.02
+marginalized social groups,1,0.02
+requesters,1,0.02
+Immigrants,1,0.02
+incarcerated people,1,0.02
+unbanked,1,0.02
+non-Hispanic White,1,0.02
+female founders,1,0.02
+incarcerated individuals,1,0.02
+lower SES groups,1,0.02
+ICU patients,1,0.02
+maternal,1,0.02
+health workers,1,0.02
+younger users,1,0.02
+higher education,1,0.02
+iPhone users,1,0.02
+recidivism risk groups,1,0.02
+occupations,1,0.02
+groups,1,0.02
+smallholder farmers,1,0.02
+women farmers,1,0.02
+the worst-off members,1,0.02
+urban users,1,0.02
+rural users,1,0.02
+high-income users,1,0.02
+Nigerian English speakers,1,0.02
+lower socio-economic groups,1,0.02
+underrepresented countries,1,0.02
+high baseline group,1,0.02
+low baseline group,1,0.02
+ride-share drivers,1,0.02
+riders in underserved areas,1,0.02
+geographical populations,1,0.02
+NYC residents,1,0.02
+Black infants,1,0.02
+White infants,1,0.02
+African American English users,1,0.02
+low-income,1,0.02
+low-income people,1,0.02
+students from protected groups,1,0.02
+at-risk populations,1,0.02
+socioeconomically diverse users,1,0.02
+female faces,1,0.02
+LGBTQIA+ persons,1,0.02
+Global South countries,1,0.02
+poor rural communities,1,0.02
+marginalized peoples,1,0.02
+female IS academics,1,0.02
+male IS academics,1,0.02
+rural youth,1,0.02
+less-advantaged groups,1,0.02
+digital users in the global South,1,0.02
+vulnerable people,1,0.02
+restaurant patrons,1,0.02
+non-European/North American citizens,1,0.02
+scheduled castes,1,0.02
+scheduled tribes,1,0.02
+digitally marginalized groups,1,0.02
+scientists with children,1,0.02
+disadvantaged caste groups,1,0.02
+others,1,0.02
+female victims,1,0.02
+male victims,1,0.02
+Asian groups,1,0.02
+general commuters,1,0.02
+career seekers,1,0.02
+gendered noun speakers,1,0.02
+vaccine access disparities,1,0.02
+blind and low vision people,1,0.02
+annotation workers,1,0.02
+global South populations,1,0.02
+students of color,1,0.02
+patients with multiple chronic conditions,1,0.02
+groups without chronic conditions,1,0.02
+policy beneficiaries,1,0.02
+African subjects,1,0.02
+authors' groups,1,0.02
+affected groups,1,0.02
+marginalized people,1,0.02
+users of algorithms,1,0.02
+minoritized ethnic groups,1,0.02
+Pacific Islanders,1,0.02
+illiterate users,1,0.02
+learners from different groups,1,0.02
+educational disparities,1,0.02
+income classes,1,0.02
+women trainees,1,0.02
+women mentors,1,0.02
+male politicians,1,0.02
+Black authors,1,0.02
+White authors,1,0.02
+students with financial need,1,0.02
+regional speakers,1,0.02
+police victims,1,0.02
+top-ranked institution researchers,1,0.02
+racial/ethnic groups,1,0.02
+students at risk,1,0.02
+underrepresented demographic groups,1,0.02
+Poor women,1,0.02
+online daters,1,0.02
+sub-active groups,1,0.02
+data experts in Africa,1,0.02
+disenfranchised communities,1,0.02
+justice-involved individuals,1,0.02
+illiterate communities,1,0.02
+face image subjects,1,0.02
+researchers from underrepresented backgrounds,1,0.02
+global marginalized communities,1,0.02
+individuals facing injustice,1,0.02
+residents in high/low reporting areas,1,0.02
+advantaged users,1,0.02
+disadvantaged users,1,0.02
+microblog users,1,0.02
+professional drivers,1,0.02
+semi-professional drivers,1,0.02
+Marginalized groups,1,0.02
+Chinese citizens,1,0.02
+users of Wikipedia,1,0.02
+women in CS,1,0.02
+residents of northern Mexico,1,0.02
+Mexico City residents,1,0.02
+non-Western writers,1,0.02
+readers,1,0.02
+scholars,1,0.02
+at-risk students,1,0.02
+public figures,1,0.02
+dim lighting individuals,1,0.02
+white individuals,1,0.02
+poverty-stricken households,1,0.02
+underrepresented skin types,1,0.02
+Indian social groups,1,0.02
+patients with coronary artery disease,1,0.02
+disaster-affected communities,1,0.02
+spatial regions,1,0.02
+disabled users,1,0.02
+students in London,1,0.02
+under-served populations,1,0.02
+authors from developing countries,1,0.02
+residents of South and Southeast Mexico,1,0.02
+households with limited ICT access,1,0.02
+low-income travelers,1,0.02
+researchers from Africa,1,0.02
+researchers from South America,1,0.02
+global academic community,1,0.02
+LGBTQ community,1,0.02
+female borrowers,1,0.02
+multilingual communities,1,0.02
+poorer,1,0.02
+non-white,1,0.02
+researchers from low income countries,1,0.02
+global scientific community,1,0.02
+men developers,1,0.02
+education minorities,1,0.02
+opinion minorities,1,0.02
+elderly females,1,0.02
+affluent communities,1,0.02
+faces with occlusion,1,0.02
+less wealthy,1,0.02
+generations,1,0.02
+parolees,1,0.02
+hiring candidates,1,0.02
+Asian patients,1,0.02
+White people,1,0.02
+transgender people,1,0.02
+sex groups,1,0.02
+sub-groups,1,0.02
+dark skin individuals,1,0.02
+light skin individuals,1,0.02
+mental health users,1,0.02
+students by gender,1,0.02
+students by race,1,0.02
+darker skin types,1,0.02
+dark-skinned people,1,0.02
+underprivileged communities,1,0.02
+county populations,1,0.02
+black females,1,0.02
+suspects,1,0.02
+male artists,1,0.02
+foster youth,1,0.02
+systemically marginalized groups,1,0.02
+non-US speakers,1,0.02
+global English speakers,1,0.02
+patients with limited testing,1,0.02
+legacy communities,1,0.02
+People of Color,1,0.02
+speech recognition users,1,0.02
+cohorts with lower performance,1,0.02
+film industry minorities,1,0.02
+male speakers,1,0.02
+US speakers,1,0.02
+UK speakers,1,0.02
+other nationalities,1,0.02
+grouped by race or gender,1,0.02
+Latin American communities,1,0.02
+financially disadvantaged,1,0.02
+low health literacy users,1,0.02
+Asian individuals,1,0.02
+Latina/o individuals,1,0.02
+individuals affected by decisions,1,0.02
+sub-Saharan populations,1,0.02
+female editors,1,0.02
+middle-income taxpayers,1,0.02
+high-income taxpayers,1,0.02
+individuals from different populations,1,0.02
+male writers,1,0.02
+population subgroups,1,0.02
+Black/African American,1,0.02
+Asian researchers,1,0.02
+White researchers,1,0.02
+hospitalized patients,1,0.02
+women scholars,1,0.02
+data points,1,0.02
+socioeconomically disadvantaged,1,0.02
+public health groups,1,0.02
+female medical students,1,0.02
+male medical students,1,0.02
+ethnic communities,1,0.02
+candidate groups,1,0.02
+Indian language speakers,1,0.02
+low-resource users,1,0.02
+users from less-developed countries,1,0.02
+users from highly-developed countries,1,0.02
+researchers in low-income countries,1,0.02
+early-career scholars,1,0.02
+under-represented languages,1,0.02
+deprived citizens,1,0.02
+affluent citizens,1,0.02
+job seekers over 40,1,0.02
+insurance customers,1,0.02
+black individuals,1,0.02
+AI practitioners,1,0.02
+gender subgroups,1,0.02
+masculine groups,1,0.02
+people with different skin tones,1,0.02
+financially stressed users,1,0.02
+economically less wealthy nations,1,0.02
+Asian/Pacific Islanders,1,0.02
+transit users,1,0.02
+nonbinary people,1,0.02
+intersex people,1,0.02
+individuals impacted by profiling,1,0.02
+unprivileged workers,1,0.02
+African American speakers,1,0.02
+BLV streamers,1,0.02
+visually impaired users,1,0.02
+Black Males,1,0.02
+digital users,1,0.02
+impacted communities,1,0.02
+gender-neutral professions,1,0.02
+South Asians,1,0.02
+female farmers,1,0.02
+rural Canadians,1,0.02
+delivery agents,1,0.02
+non-white people,1,0.02
+political classes,1,0.02
+patients with Crohn's disease,1,0.02
+diabetes patients,1,0.02
+best performing groups,1,0.02
+patients with skin lesions,1,0.02
+annotators,1,0.02
+vulnerable individuals,1,0.02
+lighter skin tones,1,0.02
+mothers,1,0.02
+fathers,1,0.02
+speech communities,1,0.02
+marginalized language speakers,1,0.02
+underrepresented gender groups,1,0.02
+social identity groups,1,0.02
+sex workers,1,0.02
+trafficking victims,1,0.02
+diverse neighborhoods,1,0.02
+users of ML systems,1,0.02
+individuals of different demographics,1,0.02
+central network areas,1,0.02
+lighter skin individuals,1,0.02
+married individuals,1,0.02
+less represented identities,1,0.02
+youth under 17,1,0.02
+masculine gender presentation,1,0.02
+non-US nationals,1,0.02
+users of GNNs,1,0.02
+social groups impacted by bias,1,0.02
+Jewish communities,1,0.02
+diverse facial expression groups,1,0.02
+Black Content Creators,1,0.02
+Brown Content Creators,1,0.02
+birthing people,1,0.02
+Female Hispanic,1,0.02
+medical subpopulations,1,0.02
+mobility vehicle users,1,0.02
+women in software engineering,1,0.02
+white communities,1,0.02
+non-white communities,1,0.02
+under-represented societies,1,0.02
+physically diverse individuals,1,0.02
+women diplomats,1,0.02
+subgroups by sex,1,0.02
+subgroups by dialect,1,0.02
+homeless individuals,1,0.02
+people experiencing homelessness,1,0.02
+underrepresented populations,1,0.02
+White participants,1,0.02
+Asian participants,1,0.02
+colonized regions,1,0.02
+LGBTQIA+ community,1,0.02
+users with biased profiles,1,0.02
+Hispanic patients,1,0.02
+wealthier households,1,0.02
+socio-demographic groups,1,0.02
+media consumers,1,0.02
+policy groups,1,0.02
+skin color groups,1,0.02
+stakeholders,1,0.02
+abled people,1,0.02
+European-Americans,1,0.02
+U.S. accented speakers,1,0.02
+non-U.S. accented speakers,1,0.02
+older people,1,0.02
+patients of underrepresented classes,1,0.02
+Dominican students,1,0.02
+Dominican educators,1,0.02
+younger populations,1,0.02
+geographical minorities,1,0.02
+individuals within groups,1,0.02
+Asian moderators,1,0.02
+non-Asian moderators,1,0.02
+people of darker skin,1,0.02
+pregnant individuals,1,0.02
+low-density areas,1,0.02
+queer community,1,0.02
+female analysts,1,0.02
+male analysts,1,0.02
+different socioeconomic groups,1,0.02
+low-income areas,1,0.02
+elderly populations,1,0.02
+patients with eye diseases,1,0.02
+African speakers,1,0.02
+overworked clinicians,1,0.02
+network users,1,0.02
+female freelancers,1,0.02
+human interactants,1,0.02
+feminine figures,1,0.02
+young PD patients,1,0.02
+elderly PD patients,1,0.02
+non-stereotypical gender groups,1,0.02
+community members,1,0.02
+students in low-income schools,1,0.02
+higher-income groups,1,0.02
+health conditions,1,0.02
+cold items users,1,0.02
+producer groups,1,0.02
+perceived attractive individuals,1,0.02
+institutionalized groups,1,0.02
+beneficiaries of social services,1,0.02
+impoverished groups,1,0.02
+New Zealand population,1,0.02
+global health populations,1,0.02
+German citizens,1,0.02
+disadvantaged categories,1,0.02
+nodes in datasets,1,0.02
+social workers,1,0.02
+specific national groups,1,0.02
+male singers,1,0.02
+female singers,1,0.02
+small business owners,1,0.02
+less-established users,1,0.02
+residents in specific neighborhoods,1,0.02
+Mexican workers,1,0.02
+Korean social groups,1,0.02
+cultural minorities,1,0.02
+workers in Africa,1,0.02
+workers in Latin America,1,0.02
+workers in India,1,0.02
+at-risk individuals,1,0.02
+under-resourced speakers,1,0.02
+male reviewers,1,0.02
+people with disability,1,0.02
+underrepresented individuals,1,0.02
+Black female,1,0.02
+Black male,1,0.02
+human faces,1,0.02
+socially disadvantaged,1,0.02
+patients with multiple identities,1,0.02
+individuals with AD,1,0.02
+nursing home residents,1,0.02
+non-residents,1,0.02
+translators,1,0.02
+protected social groups,1,0.02
+NT students,1,0.02
+attractive faces,1,0.02
+stigmatized groups,1,0.02
+regional accents,1,0.02
+patients from diverse backgrounds,1,0.02
+majority group,1,0.02
+white annotators,1,0.02
+people with accents,1,0.02
+families in CPS,1,0.02
+Korean society,1,0.02
+artificial society,1,0.02
+simulated agents,1,0.02
+non-cisgender individuals,1,0.02
+immigrants,1,0.02
+individuals in certain groups,1,0.02
+Black residents,1,0.02
+Hispanic residents,1,0.02
+criminals,1,0.02
+financial clients,1,0.02
+patients with limited data,1,0.02
+specific subpopulations,1,0.02
+historical communities,1,0.02
+South Asian communities,1,0.02
+individuals in different groups,1,0.02
+racial/migrant groups,1,0.02
+Chinese users,1,0.02
+social groups targeted by biases,1,0.02
+black patients,1,0.02
+TGNB individuals,1,0.02
+diverse individuals,1,0.02
+disability groups,1,0.02
+non-Western populations,1,0.02
+low socioeconomic borrowers,1,0.02
+sub-groups of people,1,0.02
+speech-impaired,1,0.02
+video interviewees,1,0.02
+social marginalized groups,1,0.02
+rural poor,1,0.02
+early-career researchers,1,0.02
+intersectional identity groups,1,0.02
+Black applicants,1,0.02
+Latino Hispanic,1,0.02
+femme-identifying,1,0.02
+genderqueer,1,0.02
+students in segregated districts,1,0.02
+diverse genders,1,0.02
+Māori,1,0.02
+Spanish speakers,1,0.02
+immigrant communities,1,0.02
+students in India,1,0.02
+students in Finland,1,0.02
+public schools,1,0.02
+insurance groups,1,0.02
+lower income US census tracts,1,0.02
+global low-income populations,1,0.02
+neighborhood residents,1,0.02
+emotionally marginalized,1,0.02
+transit-dependent communities,1,0.02
+healthcare populations,1,0.02
+subpopulations by race/ethnicity,1,0.02
+darker-skinned people,1,0.02
+health minorities,1,0.02
+the poor,1,0.02
+transgender professionals,1,0.02
+low-resource countries,1,0.02
+law students,1,0.02
+diverse ethnicity,1,0.02
+disabilities,1,0.02
+subcontracted laborers,1,0.02
+Southern Italy,1,0.02
+privileged communities,1,0.02
+people with IDD,1,0.02
+under-served groups,1,0.02
+female individuals,1,0.02
+male individuals,1,0.02
+Africans,1,0.02
+individuals subjected to discrimination,1,0.02
+item providers,1,0.02
+social subgroups,1,0.02
+discriminated users,1,0.02
+majority communities,1,0.02
+countries with lower internet users,1,0.02
+societies with biased perceptions,1,0.02
+geographic minorities,1,0.02
+end-users,1,0.02
+international students,1,0.02
+female Chinese individuals,1,0.02
+qualified candidates,1,0.02
+poverty-affected groups,1,0.02
+individuals in groups,1,0.02
+racialized students,1,0.02
+Chinese women,1,0.02
+low income,1,0.02
+female adolescents,1,0.02
+male adolescents,1,0.02
+older patients,1,0.02
+younger patients,1,0.02
+learners in developing countries,1,0.02
+younger students,1,0.02
+students in France and Italy,1,0.02
+healthcare minorities,1,0.02
+advertisers,1,0.02
+patients in LMICs,1,0.02
+female appellants,1,0.02
+subgroups by sensitive features,1,0.02
+musicians from Global South,1,0.02
+creative workers,1,0.02
+workforce,1,0.02
+small farmers,1,0.02
+marginal farmers,1,0.02
+conflict-affected groups,1,0.02
+individuals in social groups,1,0.02
+patients with SDoH factors,1,0.02
+GBV victims,1,0.02
+educational marginalized groups,1,0.02
+patients with darker skin,1,0.02
+White-aligned,1,0.02
+gaming communities,1,0.02
+nonbinary,1,0.02
+gender-diverse,1,0.02
+refugee women,1,0.02
+migrant women,1,0.02
+LMIC populations,1,0.02
+HIC populations,1,0.02
+patients with learning disabilities,1,0.02
+patients with diagnoses,1,0.02
+patients with skin diseases,1,0.02
+advantaged students,1,0.02
+diverse gender groups,1,0.02
+non-target groups,1,0.02
+older candidates,1,0.02
+employees,1,0.02
+lower-income countries,1,0.02
+stereotyped groups,1,0.02
+students from marginalized groups,1,0.02
+diverse human populations,1,0.02
+feminine referents,1,0.02
+low-resource language users,1,0.02
+individuals in sensitive domains,1,0.02
+intersectional users,1,0.02
+darker skin tone individuals,1,0.02
+African-American offenders,1,0.02
+White offenders,1,0.02
+cardiac arrest patients,1,0.02
+fat people,1,0.02
+female practitioners,1,0.02
+ethnically underrepresented,1,0.02
+less experienced,1,0.02
+those with work limitations,1,0.02
+patients of marginalized groups,1,0.02
+different demographic groups,1,0.02
+Older adults,1,0.02
+People with disabilities,1,0.02
+decision-makers,1,0.02
+software developers,1,0.02
+male candidates,1,0.02
+social groups in Bangladesh,1,0.02
+white,1,0.02
+female pilot trainees,1,0.02
+female instructors,1,0.02
+male instructors,1,0.02
+indigenous peoples,1,0.02
+colonized communities,1,0.02
+non-Western language speakers,1,0.02
+different skin tones,1,0.02
+U.S. LinkedIn members,1,0.02
+different age groups,1,0.02
+Chinese immigrants,1,0.02
+health research participants,1,0.02
+health experts,1,0.02
+light skin,1,0.02
+dark skin,1,0.02
+platform workers,1,0.02
+digital laborers,1,0.02
+Non-White groups,1,0.02
+Chinese social groups,1,0.02
+financial applicants,1,0.02
+Black Females,1,0.02
+individuals with darker skin tones,1,0.02
+public health populations,1,0.02
+medical subgroups,1,0.02
+data annotators,1,0.02
+AI data workers,1,0.02
+individuals with diverse appearances,1,0.02
+multilingual users,1,0.02
+African individuals,1,0.02
+remote communities,1,0.02
+students in underdeveloped regions,1,0.02
+female cybersecurity professionals,1,0.02
+male recruiters,1,0.02
+US residents,1,0.02
+Chinese residents,1,0.02
+micro-firms,1,0.02
+Dalits,1,0.02
+caste-oppressed groups,1,0.02
+resource-deprived groups,1,0.02
+women inventors,1,0.02
+female examiners,1,0.02
+Black clients,1,0.02
+White clients,1,0.02
+Black males,1,0.02
+female gender,1,0.02
+female figures,1,0.02
+male figures,1,0.02
+Bengali speakers,1,0.02
+Muslim community,1,0.02
+incoming university students,1,0.02
+Global South individuals,1,0.02
+Global North individuals,1,0.02
+marginalized cultural groups,1,0.02
+women defendants,1,0.02
+early-career scientists,1,0.02
+newcomers,1,0.02
+under-represented applicants,1,0.02
+economic classes,1,0.02
+female experts,1,0.02
+lower castes,1,0.02
+upper castes,1,0.02
+white patients,1,0.02
+non-white patients,1,0.02
+diverse populations,1,0.02
+multilingual speakers,1,0.02
+individuals in decision contexts,1,0.02
+lower education users,1,0.02
+users outside US,1,0.02
+native English speakers,1,0.02
+PoC,1,0.02
+nation groups,1,0.02
+LGBTQ+ adolescents,1,0.02
+queer youth,1,0.02
+LGBTQIA+ individuals,1,0.02
+East Asian users,1,0.02
+Western users,1,0.02
+resource-limited communities,1,0.02
+White applicants,1,0.02
+dialect speakers,1,0.02
+patients with diabetes,1,0.02
+subgroups at risk,1,0.02
+non-standard dialect speakers,1,0.02
+minoritized language speakers,1,0.02
+educational levels,1,0.02
+low-income women,1,0.02
+underserved women,1,0.02
+non-Western students,1,0.02
+indigenous language speakers,1,0.02
+protected attributes,1,0.02
+under-resourced groups,1,0.02
+health marginalized groups,1,0.02
+black people,1,0.02
+minority artists,1,0.02
+African-American voters,1,0.02
+young women,1,0.02
+minority ethnic groups,1,0.02
+non-minority groups,1,0.02
+subgroups of individuals,1,0.02
+feminine individuals,1,0.02
+medical students,1,0.02
+individuals with Down syndrome,1,0.02
+Hispanic communities,1,0.02
+White communities,1,0.02
+American Indian communities,1,0.02
+less urbanized areas,1,0.02
+majority-minority groups,1,0.02
+White counties,1,0.02
+Filipino students,1,0.02
+disadvantaged consumers,1,0.02
+regional dialect speakers,1,0.02
+female entrepreneurs,1,0.02
+Chinese individuals,1,0.02
+people who stutter,1,0.02
+Latino men,1,0.02
+French speakers,1,0.02
+BIPOC youth,1,0.02
+youth,1,0.02
+users of recommender systems,1,0.02
+Hispanic speakers,1,0.02
+White speakers,1,0.02
+non-white politicians,1,0.02
+drug users,1,0.02
+rehabilitation patients,1,0.02
+Black community,1,0.02
+Penn students,1,0.02
+Philadelphia residents,1,0.02
+Kurdish people,1,0.02
+sexual violence victims,1,0.02
+nations,1,0.02
+organizations,1,0.02
+younger,1,0.02
+individuals with scarce resources,1,0.02
+minoritized individuals,1,0.02
+patients by socioeconomic status,1,0.02
+medical communities,1,0.02
+examiners,1,0.02
+Russian speakers,1,0.02
+literary readers,1,0.02
+AI developers,1,0.02
+users without resources,1,0.02
+evicted individuals,1,0.02
+homeless populations,1,0.02
+platform users,1,0.02
+artists,1,0.02
+autistic adults,1,0.02
+Deaf community,1,0.02
+marine stakeholders,1,0.02
+feminists,1,0.02
+ageing workers,1,0.02
+African,1,0.02
+South American,1,0.02
+xenophobic groups,1,0.02
+patients needing hemodialysis,1,0.02
+users of models,1,0.02
+minority race,1,0.02
+majority race,1,0.02
+Female patients,1,0.02
+advantaged groups,1,0.02
+users by sexual orientation,1,0.02
+underprivileged people,1,0.02
+social groups in India,1,0.02
+Brown Americans,1,0.02
+Black Men,1,0.02
+Portuguese speakers,1,0.02
+individuals with darker skin,1,0.02
+non-WEIRD annotators,1,0.02
+Global South populations,1,0.02
+vulnerable patients,1,0.02
+minoritized scholars,1,0.02
+religious minorities,1,0.02
+health groups,1,0.02
+Aboriginal peoples,1,0.02
+Torres Strait Islanders,1,0.02
+Global South,1,0.02
+Middle East,1,0.02
+Latine communities,1,0.02
+low SES homes,1,0.02
+diverse US communities,1,0.02
+global communities,1,0.02
+AAE speakers,1,0.02
+health vulnerable,1,0.02
+non-western English speakers,1,0.02
+regional language users,1,0.02
+Bengali communities,1,0.02
+Medicaid recipients,1,0.02
+Medicare beneficiaries,1,0.02
+minority voters,1,0.02
+economically disadvantaged students,1,0.02
+female personas,1,0.02
+LGBTQIA+ professionals,1,0.02
+multilingual students,1,0.02
+Minority groups,1,0.02
+labor force,1,0.02
+rural students,1,0.02
+psychological users,1,0.02
+financially excluded groups,1,0.02
+mental health groups,1,0.02
+male workers,1,0.02
+items,1,0.02
+information professionals,1,0.02
+economically disadvantaged,1,0.02
+contributors,1,0.02
+global Rust users,1,0.02
+homeless people,1,0.02
+Black subjects,1,0.02
+White subjects,1,0.02
+low-resource cultures,1,0.02
+medical practitioners,1,0.02
+underserved areas,1,0.02
+seniors,1,0.02
+LGBTQIA2+,1,0.02
+queer artists,1,0.02
+pregnant women,1,0.02
+new mothers,1,0.02
+disability practitioners,1,0.02
+queer students,1,0.02
+academic communities,1,0.02
+privileged individuals,1,0.02
+unprivileged individuals,1,0.02
+Japanese users,1,0.02
+VTuber streamers,1,0.02
+digital content creators,1,0.02
+disadvantaged gender groups,1,0.02
+K-12 students,1,0.02
+protected student groups,1,0.02
+patients with non-adherence,1,0.02
+African language speakers,1,0.02
+German speakers,1,0.02
+US consumers,1,0.02
+diverse care recipients,1,0.02
+diverse ICU patients,1,0.02
+Black populations,1,0.02
+Asian women,1,0.02
+African American community,1,0.02
+low-income earners,1,0.02
+lower education groups,1,0.02
+rideshare drivers,1,0.02
+urban low-demand regions,1,0.02
+Swedish women,1,0.02
+non-Italian born individuals,1,0.02
+car insurance users,1,0.02
+people with Down syndrome,1,0.02
+Latin American workers,1,0.02
+demographic cohorts,1,0.02
+young job seekers,1,0.02
+workers in Global South,1,0.02
+castes,1,0.02
+students with non-European background,1,0.02
+Dutch students,1,0.02
+residents in deprived areas,1,0.02
+urban and rural populations,1,0.02
+female scholars,1,0.02
+AI users,1,0.02
+target populations,1,0.02
+migrants,1,0.02
+under-represented subgroups,1,0.02
+job-seekers,1,0.02
+low-income neighborhoods,1,0.02
+Low-resource language speakers,1,0.02
+Global South communities,1,0.02
+low-status surname holders,1,0.02
+general social media users,1,0.02
+LGBTQIAPN+ professionals,1,0.02
+poorer people,1,0.02
+developing country communities,1,0.02
+central regions,1,0.02
+deaf people,1,0.02
+PNG users,1,0.02
+emerging economy populations,1,0.02
+Arab,1,0.02
+Caucasian females,1,0.02
+diverse patient groups,1,0.02
+society members,1,0.02
+large populations,1,0.02
+community college students,1,0.02
+researchers,1,0.02
+Indigenous Australians,1,0.02
+Non-Indigenous Australians,1,0.02
+Tel Aviv neighborhoods,1,0.02
