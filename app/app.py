@@ -10,7 +10,7 @@ import seaborn as sns
 # Load data
 @st.cache_data
 def load_data():
-    with open('../results/advanced/summary_advanced.json') as f:
+    with open('summary_advanced.json') as f:
         data = json.load(f)
     return data
 
