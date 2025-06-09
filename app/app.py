@@ -38,7 +38,7 @@ if section == "Papers per Year":
     st.subheader("📈 Number of Papers per Year")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Inequality-related research in CS on arXiv has increased significantly over the last decade, with a steep rise since 2022.
+        Inequality-related research in CS on arXiv has increased significantly over the last decade, with a steep rise since 2022.
     </div>
     """, unsafe_allow_html=True)
 
@@ -68,8 +68,8 @@ elif section == "Inequality Types":
     st.subheader("⚖️ Inequality Types (Top 10)")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Racial/ethnic and gender inequality have been dominant topics overall, 
-                followed by a steady rise in socioeconomic inequality. Health inequality also saw an increase in 2024.
+        Racial/ethnic and gender inequality have been dominant topics overall, 
+        followed by a steady rise in socioeconomic inequality. Health inequality also saw an increase in 2024.
     </div>
     """, unsafe_allow_html=True)
 
@@ -102,9 +102,9 @@ elif section == "Methodologies":
     st.subheader("🛠️ Methodologies Used")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Quantitative and experimental methods has been the most commonly used approaches. 
-                Experiment methods have overtaken quantitative methods since 2023.
-                ML, NLP, and dataset creation methods have also increased over the past two years.
+        Quantitative and experimental methods has been the most commonly used approaches. 
+        Experiment methods have overtaken quantitative methods since 2023.
+        ML, NLP, and dataset creation methods have also increased over the past two years.
     </div>
     """, unsafe_allow_html=True)
 
@@ -138,7 +138,7 @@ elif section == "AI Relevance":
     
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> The proportion of inequality-related CS papers involving AI has steadily increased—rising until 2019 and remaining around 80–90% since then.
+        The proportion of inequality-related CS papers involving AI has steadily increased—rising until 2019 and remaining around 80–90% since then.
     </div>
     """, unsafe_allow_html=True)
 
@@ -170,8 +170,8 @@ elif section == "AI Role":
     st.subheader("🔍 AI Framing in Inequality Research")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> AI is most often framed as a cause or amplifier of inequality since 2019, with a sharp rise in 2023 and 2024. 
-                AS as Measurement tool and solution roles follow.
+        AI is most often framed as a cause or amplifier of inequality since 2019, with a sharp rise in 2023 and 2024. 
+        AS as Measurement tool and solution roles follow.
     </div>
     """, unsafe_allow_html=True)
 
@@ -204,8 +204,7 @@ elif section == "Geographic Focus":
     st.subheader("🌍 Geographic Focus in Papers (Top 10)")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Among studies with identified geographic focus, the US is most frequently mentioned, 
-                followed by India.
+        Among studies with identified geographic focus, the US is most frequently mentioned, followed by India.
     </div>
     """, unsafe_allow_html=True)
 
@@ -239,9 +238,9 @@ elif section == "Geo Focus vs. Inequality":
     st.subheader("🔗 Geographic Focus vs. Inequality Type")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Geographic focus correlates with different inequality concerns: 
-                the US emphasizes racial/ethnic and socioeconomic issues, Europe on racial/ethnic and gender, 
-                India on gender and socioeconomic, and Africa on racial/ethnic.
+        Geographic focus correlates with different inequality concerns: 
+        the US emphasizes racial/ethnic and socioeconomic issues, Europe on racial/ethnic and gender, 
+        India on gender and socioeconomic, and Africa on racial/ethnic.
     </div>
     """, unsafe_allow_html=True)
 
@@ -267,10 +266,10 @@ elif section == "Inequality vs. Methodology":
     st.subheader("🔬 Inequality Type vs. Methodology")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Quantitative analysis and experiments are the most common methods across inequality types. 
-                Geographic, info/digital, and socioeconomic inequality studies rely more on quantitative analysis, 
-                while racial/ethnic, gender, and social inequality studies more often use experiments. 
-                Health inequality studies show a relatively higher use of machine learning.
+        Quantitative analysis and experiments are the most common methods across inequality types. 
+        Geographic, info/digital, and socioeconomic inequality studies rely more on quantitative analysis, 
+        while racial/ethnic, gender, and social inequality studies more often use experiments. 
+        Health inequality studies show a relatively higher use of machine learning.
     </div>
     """, unsafe_allow_html=True)
 
@@ -296,10 +295,10 @@ elif section == "Inequality vs AI Role":
     st.subheader("🔄 Inequality Type vs. AI Role")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Correlations between inequality types and AI roles show that 
-                AI is most often seen as a cause or amplifier in studies on general social inequality. 
-                In age-related inequality, AI is frequently viewed as a measurement tool, 
-                while geographic inequality is often seen as unrelated to AI.
+        Correlations between inequality types and AI roles show that 
+        AI is most often seen as a cause or amplifier in studies on general social inequality. 
+        In age-related inequality, AI is frequently viewed as a measurement tool, 
+        while geographic inequality is often seen as unrelated to AI.
     </div>
     """, unsafe_allow_html=True)
 
@@ -334,7 +333,7 @@ elif section == "Authorship Trends":
     st.subheader("👥 Authorship Trends Over Time")
     st.markdown("""
     <div style='font-size:20px'>
-        <strong>Finding:</strong> Number of researchers per paper steadily increased—suggesting more collaborative work.
+        Number of researchers per paper steadily increased—suggesting more collaborative work.
     </div>
     """, unsafe_allow_html=True)
 
