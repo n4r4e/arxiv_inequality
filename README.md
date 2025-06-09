@@ -9,6 +9,8 @@ This project explores how research on social inequality has evolved in the Compu
 - Whether studies are AI-related, and if so, how AI is viewed in relation to inequality
 - Temporal and geographical trends in inequality research
 
+#### The results are available in the [online dashboard](https://arxivinequalitydashboard.streamlit.app/).
+
 # Process
 The project followed a three-stage process:
 
@@ -41,8 +43,10 @@ arxiv_inequality/
 ├── results/                  # Analysis outputs
 │   ├── basic/                # Basic statistical results
 │   ├── advanced/             # Advanced analysis results
-├── docs/                     # Documentation and reports
-│   └── report.md             # Analysis report (to be added)
+├── app/                      # Online dashboard for exploring results
+│   ├── app.py                # Streamlit dashboard code
+│   ├── requirements.txt      # Dependencies for Streamlit app
+│   └── summary_advanced.json # Data used in the dashboard
 └── README.md                 # Project documentation
 ```
 
